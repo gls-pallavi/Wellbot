@@ -1,0 +1,47 @@
+version: "3.1"
+
+stories:
+
+- story: Greeting and happy mood flow
+  steps:
+    - intent: greeting
+    - action: action_mood_response
+    - intent: mood_great
+    - action: action_mood_response
+
+- story: Greeting and unhappy mood flow
+  steps:
+    - intent: greeting
+    - action: action_mood_response
+    - intent: mood_unhappy
+    - action: action_mood_response
+
+- story: Goodbye flow
+  steps:
+    - intent: goodbye
+    - action: action_mood_response
+
+- story: Ask about symptoms
+  steps:
+    - intent: ask_about_symptom
+    - action: action_fetch_kb
+
+- story: Ask about prevention
+  steps:
+    - intent: ask_about_prevention
+    - action: action_fetch_kb
+
+- story: Ask about first aid
+  steps:
+    - intent: query_first_aid
+    - action: action_fetch_kb
+
+- story: Ask for wellness tips
+  steps:
+    - intent: wellness_tips
+    - action: action_fetch_kb
+
+- story: Ask about mental health
+  steps:
+    - intent: mental_health
+    - action: action_fetch_kb

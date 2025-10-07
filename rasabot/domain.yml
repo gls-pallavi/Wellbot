@@ -1,0 +1,272 @@
+version: "3.1"
+
+intents:
+  - greeting
+  - goodbye
+  - mood_great
+  - mood_unhappy
+  - ask_about_symptom
+  - ask_about_prevention
+  - query_first_aid
+  - mental_health
+  - wellness_tips
+
+entities:
+  - disease
+  - symptom
+  - body_part
+  - injury
+  - language
+
+slots:
+  language:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: language
+
+  disease:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: disease
+
+  symptom:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: symptom
+
+  injury:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: injury
+
+  body_part:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: body_part
+
+
+responses:
+  utter_greeting_en:
+    - text: "Hello! How can I help you today?"
+    - text: "Hi there! What’s on your mind?"
+    - text: "Good to see you. How can I assist?"
+    - text: "Hey! Ready to chat about health and wellness?"
+    - text: "Hi! How are you feeling today?"
+    - text: "Hello! I am here to assist you with health tips."
+    - text: "Hey! What would you like to know today?"
+    - text: "Hi there! Let’s talk about your health."
+    - text: "Hello! I’m happy to help you."
+    - text: "Hi! Feel free to ask any health-related question."
+
+  utter_greeting_hi:
+    - text: "नमस्ते! मैं आपकी किस तरह मदद कर सकता हूँ?"
+    - text: "हाय! क्या हाल है?"
+    - text: "आपसे मिलकर अच्छा लगा। मैं आपकी कैसे मदद करूँ?"
+    - text: "हेलो! स्वास्थ्य और वेलनेस के बारे में बात करना चाहते हैं?"
+    - text: "नमस्ते! आप आज कैसा महसूस कर रहे हैं?"
+    - text: "हाय! मैं आपके स्वास्थ्य सवालों में मदद कर सकती/सकता हूँ।"
+    - text: "हेलो! आप मुझसे कोई भी हेल्थ रिलेटेड प्रश्न पूछ सकते हैं।"
+    - text: "नमस्कार! आपकी सहायता करने के लिए यहाँ हूँ।"
+    - text: "हाय! चलिए स्वास्थ्य और वेलनेस पर बात करते हैं।"
+    - text: "नमस्ते! मैं आपकी हेल्थ क्वेश्चन्स में मदद करूँगा।"
+
+  utter_goodbye_en:
+    - text: "Goodbye! Take care of yourself."
+    - text: "See you later! Wishing you good health."
+    - text: "Farewell! Stay safe and positive."
+    - text: "Bye! Hope to chat with you again soon."
+    - text: "Have a wonderful day ahead!"
+    - text: "Goodbye! Keep smiling and healthy."
+    - text: "See you soon! Stay cheerful."
+    - text: "Take care and be well!"
+    - text: "Bye! Stay happy and safe."
+    - text: "See you later! Keep up the positivity."
+
+  utter_goodbye_hi:
+    - text: "अलविदा! अपना ध्यान रखें।"
+    - text: "फिर मिलेंगे, स्वस्थ रहें।"
+    - text: "विदा! सुरक्षित और सकारात्मक रहिए।"
+    - text: "बाय! जल्द ही आपसे फिर बातचीत होगी।"
+    - text: "आपका दिन शुभ हो!"
+    - text: "अलविदा! मुस्कुराते और स्वस्थ रहें।"
+    - text: "जल्द ही मिलेंगे! खुश रहें।"
+    - text: "ध्यान रखें और स्वस्थ रहें!"
+    - text: "बाय! खुश और सुरक्षित रहें।"
+    - text: "फिर मिलेंगे! सकारात्मक बने रहें।"
+
+  utter_mood_great_en:
+    - text: "That’s wonderful to hear! Keep up the positive vibes."
+    - text: "Amazing! Stay energetic and happy."
+    - text: "Great mood! Happiness is the best wellness tip."
+    - text: "Haha, that’s superhero energy! Keep it up."
+    - text: "Fantastic! I’m glad you’re feeling so good."
+    - text: "You sound really happy — that’s contagious!"
+    - text: "Keep shining, your mood is inspiring."
+    - text: "Love the positivity! Stay that way."
+    - text: "It’s awesome to see you in such high spirits."
+    - text: "That smile of yours must be glowing!"
+    - text: "Joy looks good on you."
+    - text: "Perfect! Keep the cheer going."
+    - text: "So glad you’re feeling amazing today."
+    - text: "Wow, that’s uplifting! Stay blessed."
+    - text: "Keep spreading your positive energy."
+    - text: "Happiness fuels good health — stay this way."
+    - text: "Superb! You made my day brighter too."
+    - text: "That’s excellent — ride that wave of joy."
+    - text: "I’m happy to hear you’re so cheerful."
+    - text: "Sounds like you’re on top of the world!"
+    - text: "Glorious! Stay motivated and lively."
+    - text: "That excitement is wonderful to hear."
+    - text: "What a mood! Keep enjoying life."
+    - text: "Such enthusiasm is inspiring."
+    - text: "I love hearing such cheerful updates!"
+    - text: "Stay as awesome as you are right now."
+    - text: "Positivity is your superpower!"
+    - text: "That’s truly heartwarming."
+    - text: "Yay! Keep celebrating the little joys."
+    - text: "That spirit of yours is amazing."
+    - text: "Super happy vibes coming from you."
+    - text: "You’re glowing with joy — wonderful!"
+    - text: "Glad to know you’re this cheerful."
+    - text: "Stay cheerful, it suits you well."
+
+  utter_mood_great_hi:
+    - text: "यह सुनकर बहुत अच्छा लगा! ऐसे ही सकारात्मक बने रहिए।"
+    - text: "शानदार! खुश और ऊर्जावान रहिए।"
+    - text: "वाह, आपका मूड तो बेहतरीन है! खुशी सबसे अच्छी दवा है।"
+    - text: "हा हा, ये तो सुपरहीरो वाला जोश है! ऐसे ही रहिए।"
+    - text: "बहुत बढ़िया! खुशी सबसे अच्छी दवा है।"
+    - text: "आप बहुत खुश लग रहे हैं — ये संक्रामक है!"
+    - text: "ऐसे ही चमकते रहें, आपका मूड प्रेरक है।"
+    - text: "सकारात्मक ऊर्जा बहुत अच्छी है! ऐसे ही रहें।"
+    - text: "यह देखकर अच्छा लगा कि आप अच्छे मूड में हैं।"
+    - text: "आपकी मुस्कान तो चमक रही होगी!"
+    - text: "खुशी आप पर अच्छी लग रही है।"
+    - text: "परफेक्ट! खुशियों को बनाए रखें।"
+    - text: "बहुत अच्छा! आज आप बहुत खुश हैं।"
+    - text: "वाह, यह तो उत्साहजनक है! आशीर्वादित रहें।"
+    - text: "अपनी सकारात्मक ऊर्जा फैलाते रहें।"
+    - text: "खुशी स्वस्थ जीवन की चाबी है — ऐसे ही रहें।"
+    - text: "शानदार! आपने मेरा दिन भी खुशियों से भर दिया।"
+    - text: "उत्साहपूर्ण — इस खुशी की लहर को बनाए रखें।"
+    - text: "खुश होने की यह खबर सुनकर अच्छा लगा।"
+    - text: "आप तो दुनिया पर छाए हुए हैं!"
+    - text: "शानदार! प्रेरित और जीवंत बने रहें।"
+    - text: "यह उत्साह सुनकर अच्छा लगा।"
+    - text: "क्या मूड है! जीवन का आनंद लेते रहें।"
+    - text: "यह उत्साह प्रेरक है।"
+    - text: "ऐसे खुशहाल अपडेट सुनकर अच्छा लगा!"
+    - text: "जैसा आप अभी हैं, वैसे ही बने रहें।"
+    - text: "सकारात्मकता आपकी सुपरपावर है!"
+    - text: "यह सच में दिल को छू लेने वाला है।"
+    - text: "वाह! छोटी-छोटी खुशियों का जश्न मनाते रहें।"
+    - text: "आपकी ऊर्जा अद्भुत है।"
+    - text: "आप बहुत खुश लग रहे हैं — शानदार!"
+    - text: "खुश होने की यह खबर जानकर अच्छा लगा।"
+    - text: "खुश रहें, यह आप पर बहुत अच्छा लगता है।"
+
+  utter_mood_unhappy_en:
+    - text: "I’m sorry you’re feeling low. Remember, tough times pass."
+    - text: "I hear you. It’s tough, but you’re not alone."
+    - text: "That sounds difficult. Take a deep breath — you’ve got this."
+    - text: "Feeling overwhelmed is normal sometimes. Be kind to yourself."
+    - text: "You matter, and brighter days are ahead."
+    - text: "I understand. It's okay to feel down sometimes."
+    - text: "You’re not alone — I’m here for you."
+    - text: "Take your time. Things will get better."
+    - text: "It’s okay to feel stressed. I’m listening."
+    - text: "I hear you. Remember to take care of yourself."
+    - text: "Keep faith — tough times don’t last forever."
+    - text: "It’s normal to feel sad sometimes. You are strong."
+    - text: "Don’t be too hard on yourself. This will pass."
+    - text: "I’m here to support you, no matter what."
+    - text: "Feeling low is temporary. Hang in there."
+    - text: "You are important. Take care of your feelings."
+    - text: "Sadness is part of life. Allow yourself to feel and heal."
+    - text: "I know things are hard now, but you’ll get through it."
+    - text: "Even storms pass. You’ll feel better soon."
+    - text: "It’s okay to rest and recharge. Be gentle with yourself."
+    - text: "I hear you. Let’s take it one step at a time."
+    - text: "Your feelings are valid. Don’t ignore them."
+    - text: "I understand this is tough. You can handle it."
+    - text: "You’re stronger than you think, even on hard days."
+    - text: "It’s okay to ask for help when you feel down."
+    - text: "Take a moment for yourself. You deserve it."
+    - text: "Remember, you’ve overcome tough times before."
+    - text: "Sad days don’t last forever. Brighter ones are coming."
+    - text: "Be kind to yourself. Healing takes time."
+    - text: "I’m listening. You’re not alone in this."
+    - text: "Even small steps forward are progress. Keep going."
+    - text: "It’s okay to cry or vent. Let it out."
+    - text: "Take care of yourself today. Your emotions matter."
+    - text: "Remember to breathe and give yourself patience."
+    - text: "Things may seem heavy now, but they will ease."
+    - text: "You are valued. Don’t forget that."
+    - text: "It’s okay to have off days. Be gentle with yourself."
+
+  utter_mood_unhappy_hi:
+    - text: "मैं समझता हूँ कि आप उदास महसूस कर रहे हैं। याद रखें, कठिन समय भी गुजर जाता है।"
+    - text: "मैं आपकी बात सुन रहा हूँ। यह मुश्किल है, लेकिन आप अकेले नहीं हैं।"
+    - text: "यह मुश्किल लगता है। गहरी साँस लें — आप इसे संभाल सकते हैं।"
+    - text: "कभी-कभी भारी महसूस करना सामान्य है। अपने आप पर दयालु रहें।"
+    - text: "आप महत्वपूर्ण हैं, और उज्जवल दिन आने वाले हैं।"
+    - text: "मैं समझता हूँ। कभी-कभी उदास होना ठीक है।"
+    - text: "आप अकेले नहीं हैं — मैं यहाँ हूँ।"
+    - text: "अपने समय लें। चीजें बेहतर होंगी।"
+    - text: "तनाव महसूस करना सामान्य है। मैं सुन रहा हूँ।"
+    - text: "मैं आपकी बात सुन रहा हूँ। अपने आप का ख्याल रखें।"
+    - text: "आस्था बनाए रखें — कठिन समय हमेशा नहीं रहता।"
+    - text: "कभी-कभी उदास होना सामान्य है। आप मजबूत हैं।"
+    - text: "अपने आप पर बहुत कठोर न हों। यह समय भी गुजर जाएगा।"
+    - text: "मैं यहाँ हूँ, आपकी मदद करने के लिए।"
+    - text: "उदासी अस्थायी है। धैर्य रखें।"
+    - text: "आप महत्वपूर्ण हैं। अपनी भावनाओं का ख्याल रखें।"
+    - text: "उदासी जीवन का हिस्सा है। अपने आप को महसूस करने और ठीक होने दें।"
+    - text: "मुझे पता है कि यह कठिन है, लेकिन आप इससे बाहर आएंगे।"
+    - text: "हर तूफ़ान गुजर जाता है। आप जल्दी बेहतर महसूस करेंगे।"
+    - text: "आराम करना और फिर से ऊर्जा लेना ठीक है। अपने आप पर दयालु रहें।"
+    - text: "मैं सुन रहा हूँ। कदम दर कदम आगे बढ़ें।"
+    - text: "आपकी भावनाएँ सही हैं। उन्हें अनदेखा न करें।"
+    - text: "मैं समझता हूँ कि यह कठिन है। आप इसे संभाल सकते हैं।"
+    - text: "आप सोचने से ज्यादा मजबूत हैं, कठिन दिनों में भी।"
+    - text: "जब आप उदास महसूस करें, मदद माँगना ठीक है।"
+    - text: "आज अपने आप का ख्याल रखें। आप इसके हकदार हैं।"
+    - text: "याद रखें, आपने पहले भी कठिन समय झेला है।"
+    - text: "उदास दिन हमेशा नहीं रहते। उज्जवल दिन आने वाले हैं।"
+    - text: "अपने आप पर दयालु रहें। ठीक होने में समय लगता है।"
+    - text: "मैं सुन रहा हूँ। आप अकेले नहीं हैं।"
+    - text: "छोटे कदम भी प्रगति हैं। चलते रहें।"
+    - text: "रोना या अपनी बात कहना ठीक है। इसे बाहर निकालें।"
+    - text: "आज अपने आप का ख्याल रखें। आपकी भावनाएँ महत्वपूर्ण हैं।"
+    - text: "साँस लें और खुद के लिए धैर्य रखें।"
+    - text: "अभी चीजें भारी लग सकती हैं, लेकिन धीरे-धीरे हल्की होंगी।"
+    - text: "आप मूल्यवान हैं। इसे मत भूलें।"
+    - text: "कभी-कभी खराब दिन आते हैं। अपने आप पर दयालु रहें।"
+
+  utter_ask_about_symptom:
+    - text: "Thinking..."
+
+  utter_ask_about_prevention:
+    - text: "Thinking..."
+
+  utter_query_first_aid:
+    - text: "Thinking..."
+
+  utter_wellness_tips:
+    - text: "Thinking..."
+
+  utter_mental_health:
+    - text: "Thinking..."
+
+actions:
+  - action_fetch_kb
+  - action_mood_response
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

@@ -1,0 +1,53 @@
+version: "3.1"
+
+rules:
+
+- rule: Handle greeting
+  steps:
+    - intent: greeting
+    - action: action_mood_response
+
+- rule: Handle goodbye
+  steps:
+    - intent: goodbye
+    - action: action_mood_response
+
+- rule: Handle mood great
+  steps:
+    - intent: mood_great
+    - action: action_mood_response
+
+- rule: Handle mood unhappy
+  steps:
+    - intent: mood_unhappy
+    - action: action_mood_response
+
+- rule: Handle ask_about_symptom
+  steps:
+    - intent: ask_about_symptom
+    - action: action_fetch_kb
+
+- rule: Handle ask_about_prevention
+  steps:
+    - intent: ask_about_prevention
+    - action: action_fetch_kb
+
+- rule: Handle query_first_aid
+  steps:
+    - intent: query_first_aid
+    - action: action_fetch_kb
+
+- rule: Handle wellness tips
+  steps:
+    - intent: wellness_tips
+    - action: action_fetch_kb
+
+- rule: Handle mental health
+  steps:
+    - intent: mental_health
+    - action: action_fetch_kb
+
+- rule: Fallback
+  steps:
+    - intent: nlu_fallback
+    - action: action_default_fallback

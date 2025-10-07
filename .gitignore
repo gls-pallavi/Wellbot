@@ -1,0 +1,10 @@
+venv/
+
+backend/__pycache__/
+
+backend/.env
+
+rasabot/models/
+rasabot/.rasa/
+rasabot/actions/__pycache__/
+

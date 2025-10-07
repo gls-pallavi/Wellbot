@@ -1,0 +1,42 @@
+version: "3.1"
+
+language: "en"
+
+pipeline:
+- name: WhitespaceTokenizer
+
+- name: CountVectorsFeaturizer
+  analyzer: "word"
+- name: CountVectorsFeaturizer
+  analyzer: "char_wb"
+  min_ngram: 2
+  max_ngram: 4
+
+- name: LanguageModelFeaturizer
+  model_name: "bert"
+  model_weights: "bert-base-multilingual-cased"
+  cache_dir: "./models"
+  framework: "pt"
+
+- name: DIETClassifier
+  epochs: 70
+  entity_recognition: true
+  BILOU_flag: true
+  rank_loss_type: margin
+  random_seed: 42
+
+- name: EntitySynonymMapper
+- name: FallbackClassifier
+  threshold: 0.3
+  ambiguity_threshold: 0.1
+
+policies:
+- name: MemoizationPolicy
+  max_history: 5
+
+- name: RulePolicy
+  core_fallback_threshold: 0.3
+  core_fallback_action_name: "action_default_fallback"
+  enable_fallback_prediction: true
+
+assistant_id: 20250926-123522-one-raspberry

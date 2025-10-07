@@ -1,0 +1,878 @@
+{
+  "intent": "mental_health",
+  "entries": [
+    {
+      "id": "definition",
+      "keywords": ["mental health","well-being","psychological health","emotional health","social health","मानसिक स्वास्थ्य","भावनात्मक स्वास्थ्य","मनोवैज्ञानिक स्वास्थ्य","सामाजिक स्वास्थ्य","संपूर्ण भलाई"],
+      "en": "Mental health refers to the emotional, psychological, and social well-being of an individual. It affects how we think, feel, and act, and determines how we handle stress, relate to others, and make choices.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "मानसिक स्वास्थ्य किसी व्यक्ति की भावनात्मक, मनोवैज्ञानिक और सामाजिक भलाई को संदर्भित करता है। यह प्रभावित करता है कि हम कैसे सोचते हैं, महसूस करते हैं और कार्य करते हैं, और यह निर्धारित करता है कि हम तनाव को कैसे संभालते हैं, दूसरों से कैसे जुड़ते हैं, और निर्णय कैसे लेते हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य विशेषज्ञ से परामर्श करें।"
+    },
+    {
+      "id": "conditions",
+      "keywords": ["anxiety","depression","bipolar disorder","schizophrenia","ocd","चिंता","अवसाद","द्विध्रुवी विकार","सिज़ोफ्रेनिया","बाध्यकारी विकार"],
+      "en": "Some common mental health conditions include anxiety, depression, bipolar disorder, schizophrenia, obsessive-compulsive disorder (OCD), post-traumatic stress disorder (PTSD), and eating disorders.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "कुछ सामान्य मानसिक स्वास्थ्य स्थितियों में चिंता, अवसाद, द्विध्रुवी विकार, सिज़ोफ्रेनिया, बाध्यकारी विकार (OCD), पोस्ट-ट्रॉमेटिक स्ट्रेस डिसऑर्डर (PTSD), और भोजन विकार शामिल हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य विशेषज्ञ से परामर्श करें।"
+    },
+    {
+      "id": "symptoms",
+      "keywords": ["mood changes","sleep issues","energy levels","concentration problems","behavioral changes","मूड में बदलाव","नींद की समस्या","ऊर्जा स्तर","एकाग्रता समस्या","व्यवहार में बदलाव"],
+      "en": "Signs and symptoms can vary depending on the condition, but may include changes in mood, sleep, appetite, energy levels, concentration, thoughts, and behavior.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "लक्षण और संकेत स्थिति के अनुसार भिन्न हो सकते हैं, लेकिन इनमें मूड, नींद, भूख, ऊर्जा स्तर, एकाग्रता, विचार और व्यवहार में बदलाव शामिल हो सकते हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य विशेषज्ञ से परामर्श करें।"
+    },
+    {
+      "id": "risk_factors",
+      "keywords": ["genetics","family history","trauma","chronic stress","substance abuse","आनुवंशिकी","पारिवारिक इतिहास","आघात","दीर्घकालीन तनाव","नशीली दवाएं"],
+      "en": "Risk factors can include genetics, family history, trauma, chronic stress, substance abuse, and medical conditions.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "जोखिम कारकों में आनुवंशिकी, पारिवारिक इतिहास, आघात, लंबे समय का तनाव, नशीली दवाओं का सेवन और चिकित्सा स्थितियां शामिल हो सकती हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य विशेषज्ञ से परामर्श करें।"
+    },
+    {
+      "id": "diagnosis",
+      "keywords": ["interviews","observations","psychological tests","assessment","evaluation","साक्षात्कार","अवलोकन","मनोवैज्ञानिक परीक्षण","मूल्यांकन","जाँच"],
+      "en": "Mental health professionals use a combination of interviews, observations, and psychological tests to diagnose mental health conditions.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "मानसिक स्वास्थ्य पेशेवर मानसिक स्वास्थ्य स्थितियों का निदान करने के लिए साक्षात्कार, अवलोकन और मनोवैज्ञानिक परीक्षणों का संयोजन उपयोग करते हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य विशेषज्ञ से परामर्श करें।"
+    },
+    {
+      "id": "treatment",
+      "keywords": ["psychotherapy","medication","lifestyle changes","support groups","counseling","मनोचिकित्सा","दवा","जीवनशैली बदलाव","सहायता समूह","परामर्श"],
+      "en": "Treatment options may include psychotherapy, medication, lifestyle changes, and support groups.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "उपचार विकल्पों में मनोचिकित्सा, दवा, जीवनशैली में बदलाव और सहायता समूह शामिल हो सकते हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य विशेषज्ञ से परामर्श करें।"
+    },
+    {
+      "id": "support",
+      "keywords": ["listening","understanding","practical help","encouragement","compassion","सुनना","समझदारी","व्यावहारिक मदद","प्रोत्साहन","सहानुभूति"],
+      "en": "The most important thing is to be supportive and understanding. Listen to them without judgment, offer practical help, and encourage them to seek professional help if needed.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "सबसे महत्वपूर्ण बात यह है कि आप सहायक और समझदार बनें। बिना किसी निर्णय के उन्हें सुनें, व्यावहारिक मदद दें, और आवश्यकता होने पर पेशेवर मदद लेने के लिए प्रोत्साहित करें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य विशेषज्ञ से परामर्श करें।"
+    },
+    {
+      "id": "resources",
+      "keywords": ["hotlines","online resources","support groups","professionals","information","हॉटलाइन","ऑनलाइन संसाधन","सहायता समूह","पेशेवर","जानकारी"],
+      "en": "There are many resources available, including mental health professionals, support groups, online resources, and hotlines.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "कई संसाधन उपलब्ध हैं, जिनमें मानसिक स्वास्थ्य पेशेवर, सहायता समूह, ऑनलाइन संसाधन और हॉटलाइन शामिल हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य विशेषज्ञ से परामर्श करें।"
+    },
+    {
+      "id": "self_care",
+      "keywords": ["breaks","boundaries","gratitude","enjoyment","self-care","ब्रेक लेना","सीमाएं निर्धारित करना","आभार प्रकट करना","आनंद लेना","स्वयं देखभाल"],
+      "en": "Self-care tips can include taking breaks, setting boundaries, saying no, practicing gratitude, and doing things you enjoy.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "स्वयं-देखभाल युक्तियों में ब्रेक लेना, सीमाएं निर्धारित करना, ना कहना, आभार प्रकट करना और उन चीजों को करना शामिल हो सकता है जिनका आप आनंद लेते हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य विशेषज्ञ से परामर्श करें।"
+    },
+    {
+      "id": "stigma",
+      "keywords": ["awareness","open conversation","challenging stereotypes","supporting others","reducing stigma","जागरूकता","खुली बातचीत","रूढ़िवादिता चुनौती","दूसरों का समर्थन","कलंक कम करना"],
+      "en": "We can reduce stigma by talking openly about mental health, challenging stereotypes, and supporting people who are struggling.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "हम मानसिक स्वास्थ्य के बारे में खुलकर बात करके, रूढ़िवादिता को चुनौती देकर, और संघर्ष कर रहे लोगों का समर्थन करके कलंक को कम कर सकते हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य विशेषज्ञ से परामर्श करें।"
+    },
+    {
+      "id": "advocacy",
+      "keywords": ["talking to officials","supporting organizations","sharing stories","raising awareness","policy change","अधिकारियों से बात","संगठनों का समर्थन","कहानियां साझा करना","जागरूकता बढ़ाना","नीति परिवर्तन"],
+      "en": "We can advocate by talking to our elected officials, supporting organizations that work on mental health issues, and sharing our own stories.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "हम अपने निर्वाचित अधिकारियों से बात करके, उन संगठनों का समर्थन करके जो मानसिक स्वास्थ्य मुद्दों पर काम करते हैं, और अपनी कहानियां साझा करके वकालत कर सकते हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य विशेषज्ञ से परामर्श करें।"
+    },
+    {
+      "id": "community",
+      "keywords": ["social support","connection","reducing isolation","resources","community role","सामाजिक समर्थन","संबंध","अलगाव कम करना","संसाधन","सामुदायिक भूमिका"],
+      "en": "Community plays a crucial role in supporting mental health by providing social connection, reducing isolation, and offering resources and support.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "सामुदायिक मानसिक स्वास्थ्य का समर्थन करने में महत्वपूर्ण भूमिका निभाता है, सामाजिक जुड़ाव प्रदान करके, अलगाव कम करके और संसाधन व समर्थन प्रदान करके।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य विशेषज्ञ से परामर्श करें।"
+    },
+    {
+      "id": "technology",
+      "keywords": ["digital tools","apps","self-help","online therapy","information access","डिजिटल टूल्स","ऐप्स","आत्म-सहायता","ऑनलाइन थेरेपी","जानकारी तक पहुंच"],
+      "en": "Technology can be used to provide access to information and support, connect people with mental health professionals, and offer self-help tools.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "तकनीक का उपयोग जानकारी और समर्थन तक पहुंच प्रदान करने, लोगों को मानसिक स्वास्थ्य पेशेवरों से जोड़ने और आत्म-सीखने वाले उपकरण प्रदान करने के लिए किया जा सकता है।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य विशेषज्ञ से परामर्श करें।"
+    },
+    {
+      "id": "hope",
+      "keywords": ["treatment","recovery","fulfilling life","mental wellness","positivity","उपचार","सुधार","पूर्ण जीवन","मानसिक भलाई","सकारात्मकता"],
+      "en": "Mental health conditions are treatable, and many people with mental illness live fulfilling lives.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "मानसिक स्वास्थ्य स्थितियां उपचार योग्य हैं, और कई मानसिक बीमारी वाले लोग पूर्ण जीवन जीते हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य विशेषज्ञ से परामर्श करें।"
+    },
+    {
+      "id": "crisis",
+      "keywords": ["crisis", "emergency", "help", "urgent", "support", "संकट", "आपातकाल", "मदद", "तत्काल", "सहायता"],
+      "en": "If someone is in a crisis, call 911 or your local emergency number. You can also stay with them until help arrives and offer reassurance.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "यदि कोई संकट में है, तो 911 या अपने स्थानीय आपातकालीन नंबर पर कॉल करें। आप उनकी मदद आने तक उनके साथ रह सकते हैं और आश्वासन दे सकते हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "self_protection",
+      "keywords": ["self-care", "boundaries", "protection", "wellbeing", "mental health", "स्वयं देखभाल", "सीमाएं", "सुरक्षा", "कल्याण", "मानसिक स्वास्थ्य"],
+      "en": "By taking care of yourself physically and emotionally, setting boundaries, and seeking help when needed, you can protect your own mental health.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "शारीरिक और भावनात्मक रूप से अपनी देखभाल करके, सीमाएं निर्धारित करके, और आवश्यकता पड़ने पर मदद लेकर, आप अपनी मानसिक स्वास्थ्य की रक्षा कर सकते हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "future",
+      "keywords": ["future", "advancement", "technology", "innovation", "mental health care", "भविष्य", "प्रगति", "तकनीक", "नवाचार", "देखभाल"],
+      "en": "The future of mental health care is likely to involve more personalized and accessible treatment options, as well as greater use of technology.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "मानसिक स्वास्थ्य देखभाल का भविष्य संभवतः अधिक व्यक्तिगत और सुलभ उपचार विकल्पों में शामिल होगा, साथ ही तकनीक के व्यापक उपयोग के साथ।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "encouragement",
+      "keywords": ["encouragement", "motivation", "support", "strength", "help", "प्रोत्साहन", "सहायता", "मोटिवेशन", "शक्ति", "समर्थन"],
+      "en": "You can talk to them about your concerns, offer to help them find a therapist, and remind them that seeking help is a sign of strength.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "आप उनसे अपनी चिंताओं के बारे में बात कर सकते हैं, उन्हें एक चिकित्सक खोजने में मदद करने की पेशकश कर सकते हैं, और उन्हें याद दिला सकते हैं कि मदद लेना शक्ति का संकेत है।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "resilience",
+      "keywords": ["resilience", "strength", "coping", "overcoming", "stress management", "सहनशीलता", "शक्ति", "मुकाबला", "पार करना", "तनाव प्रबंधन"],
+      "en": "Examples of mental health resilience include overcoming trauma, managing chronic stress, and maintaining positive relationships.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "मानसिक स्वास्थ्य सहनशीलता के उदाहरणों में आघात को पार करना, लंबे समय के तनाव का प्रबंधन करना और सकारात्मक संबंध बनाए रखना शामिल है।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "therapist",
+      "keywords": ["therapist", "counselor", "psychologist", "referral", "help", "चिकित्सक", "सलाहकार", "मनोवैज्ञानिक", "संदर्भ", "मदद"],
+      "en": "You can ask your doctor for a referral, search online directories, or contact your local mental health association.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "आप अपने डॉक्टर से संदर्भ पूछ सकते हैं, ऑनलाइन निर्देशिकाओं में खोज कर सकते हैं, या अपने स्थानीय मानसिक स्वास्थ्य संघ से संपर्क कर सकते हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "coping",
+      "keywords": ["coping", "techniques", "relaxation", "exercise", "stress relief", "मुकाबला", "तकनीक", "विश्राम", "व्यायाम", "तनाव मुक्ति"],
+      "en": "Some coping mechanisms include exercise, relaxation techniques, spending time in nature, and talking to a trusted friend or family member.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "कुछ मुकाबला करने की तकनीकों में व्यायाम, विश्राम तकनीक, प्रकृति में समय बिताना, और किसी विश्वसनीय मित्र या परिवार के सदस्य से बात करना शामिल है।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "relationships",
+      "keywords": ["relationships", "communication", "trust", "respect", "supportive people", "संबंध", "संचार", "विश्वास", "सम्मान", "सहायक लोग"],
+      "en": "Building healthy relationships involves communication, trust, and mutual respect. It's important to surround yourself with supportive people who make you feel good about yourself.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "स्वस्थ संबंध बनाने में संचार, विश्वास और आपसी सम्मान शामिल होता है। यह महत्वपूर्ण है कि आप अपने आप को सहायक लोगों से घेरें जो आपको अच्छा महसूस कराएं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "thoughts",
+      "keywords": ["thoughts", "mindset", "negative thinking", "mindfulness", "focus", "विचार", "मानसिकता", "नकारात्मक सोच", "माइंडफुलनेस", "ध्यान"],
+      "en": "Some ways to manage negative thoughts and feelings include challenging them, practicing mindfulness, and focusing on the present moment.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "नकारात्मक विचारों और भावनाओं का प्रबंधन करने के कुछ तरीके हैं: उन्हें चुनौती देना, माइंडफुलनेस का अभ्यास करना, और वर्तमान क्षण पर ध्यान केंद्रित करना।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "goals",
+      "keywords": ["goals", "objectives", "planning", "success", "progress", "लक्ष्य", "उद्देश्य", "योजना", "सफलता", "प्रगति"],
+      "en": "Start with small, achievable goals and gradually increase the difficulty as you progress. Celebrate your successes and don't be discouraged by setbacks.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "छोटे, प्राप्त करने योग्य लक्ष्यों से शुरुआत करें और जैसे-जैसे आप आगे बढ़ें, कठिनाई धीरे-धीरे बढ़ाएं। अपनी सफलताओं का जश्न मनाएं और असफलताओं से हतोत्साहित न हों।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "emotions",
+      "keywords": ["emotions", "feelings", "expression", "self-awareness", "mental health", "भावनाएँ", "अभिव्यक्ति", "स्वयं-जागरूकता", "अनुभूति", "मानसिक स्वास्थ्य"],
+      "en": "Allow yourself to feel your emotions, but don't get overwhelmed by them. Express your emotions in a healthy way, such as through journaling, talking to a friend, or creative outlets.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपने भावनाओं को महसूस करने दें, लेकिन उनके द्वारा अभिभूत न हों। अपनी भावनाओं को स्वस्थ तरीके से व्यक्त करें, जैसे कि जर्नलिंग, किसी मित्र से बात करना, या रचनात्मक माध्यम।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "sleep",
+      "keywords": ["sleep", "rest", "routine", "bedtime", "health", "नींद", "आराम", "दिनचर्या", "सोने का समय", "स्वास्थ्य"],
+      "en": "Establish a regular sleep schedule, create a relaxing bedtime routine, avoid screens before bed, and make sure your bedroom is dark, quiet, and cool.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "एक नियमित नींद का कार्यक्रम बनाएं, आरामदायक सोने की दिनचर्या बनाएं, सोने से पहले स्क्रीन से बचें, और सुनिश्चित करें कि आपका बेडरूम अंधेरा, शांत और ठंडा हो।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "social_anxiety",
+      "keywords": ["social anxiety", "shyness", "nervousness", "fear", "social interaction", "सामाजिक चिंता", "लज्जा", "संदेह", "भय", "सामाजिक संपर्क"],
+      "en": "Practice mindfulness and relaxation techniques, start with small social interactions and gradually increase exposure, and focus on building relationships with supportive people.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "माइंडफुलनेस और विश्राम तकनीक का अभ्यास करें, छोटे सामाजिक संपर्कों से शुरू करें और धीरे-धीरे संपर्क बढ़ाएं, और सहायक लोगों के साथ संबंध बनाने पर ध्यान दें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "chronic_illness",
+      "keywords": ["chronic illness", "health condition", "disease", "support system", "management", "दीर्घकालिक बीमारी", "स्वास्थ्य स्थिति", "रोग", "समर्थन प्रणाली", "प्रबंधन"],
+      "en": "Learn as much as you can about your condition, connect with others who understand, develop a support system, and work with your doctor to manage your symptoms.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपनी स्थिति के बारे में जितना संभव हो सीखें, अन्य समझने वालों से जुड़ें, एक समर्थन प्रणाली विकसित करें, और अपने लक्षणों को प्रबंधित करने के लिए अपने डॉक्टर के साथ काम करें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "grief",
+      "keywords": ["grief", "loss", "mourning", "sadness", "bereavement", "शोक", "क्षति", "मृत्यु", "दुःख", "हानि"],
+      "en": "Allow yourself to grieve, talk about your loss with loved ones, find healthy ways to express your emotions, and seek professional help if needed.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपने आप को शोक व्यक्त करने दें, अपने प्रियजनों के साथ अपनी क्षति के बारे में बात करें, अपनी भावनाओं को व्यक्त करने के स्वस्थ तरीके खोजें, और आवश्यकता होने पर पेशेवर मदद लें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "self_compassion",
+      "keywords": ["self-compassion", "self-kindness", "forgiveness", "strengths", "celebration", "आत्म-दया", "दयालुता", "क्षमा", "ताकत", "उपलब्धियाँ"],
+      "en": "Be kind to yourself, forgive yourself for your mistakes, focus on your strengths, and celebrate your accomplishments.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपने प्रति दयालु रहें, अपनी गलतियों को क्षमा करें, अपनी ताकत पर ध्यान केंद्रित करें, और अपनी उपलब्धियों का जश्न मनाएं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "anger",
+      "keywords": ["anger", "frustration", "irritation", "triggers", "expression", "क्रोध", "हताशा", "चिढ़", "उत्तेजक", "अभिव्यक्ति"],
+      "en": "Identify your triggers, practice relaxation techniques, express your anger in a healthy way, such as through exercise or journaling, and consider seeking professional help if needed.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपने ट्रिगर्स की पहचान करें, विश्राम तकनीकों का अभ्यास करें, अपने गुस्से को स्वस्थ तरीके से व्यक्त करें, जैसे कि व्यायाम या जर्नलिंग के माध्यम से, और आवश्यकता होने पर पेशेवर मदद लेने पर विचार करें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "positivity",
+      "keywords": ["positivity", "gratitude", "optimism", "nature", "family", "सकारात्मकता", "कृतज्ञता", "आशावाद", "प्रकृति", "परिवार"],
+      "en": "Practice gratitude, focus on the good things in your life, connect with nature, and spend time with loved ones.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "कृतज्ञता का अभ्यास करें, अपने जीवन की अच्छी चीजों पर ध्यान केंद्रित करें, प्रकृति से जुड़ें, और प्रियजनों के साथ समय बिताएं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "community_stigma",
+      "keywords": ["community", "stigma", "awareness", "support", "challenge", "समुदाय", "कलंक", "जागरूकता", "सहायता", "चुनौती"],
+      "en": "Talk openly about mental health, challenge stereotypes, and support organizations that work to raise awareness.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "मानसिक स्वास्थ्य के बारे में खुलकर बात करें, रूढ़िवादिता को चुनौती दें, और उन संगठनों का समर्थन करें जो जागरूकता बढ़ाने का काम करते हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "advocacy_actions",
+      "keywords": ["advocacy", "volunteer", "storytelling", "awareness", "officials", "वकालत", "स्वयंसेवा", "कहानी साझा करना", "जागरूकता", "अधिकारियों"],
+      "en": "Contact your elected officials, volunteer with mental health organizations, and share your own story to raise awareness.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपने निर्वाचित अधिकारियों से संपर्क करें, मानसिक स्वास्थ्य संगठनों के साथ स्वयंसेवा करें, और जागरूकता बढ़ाने के लिए अपनी कहानी साझा करें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "creativity",
+      "keywords": ["creativity", "art", "music", "dance", "writing", "रचनात्मकता", "कला", "संगीत", "नृत्य", "लेखन"],
+      "en": "Engage in activities you enjoy, such as art, music, dance, or writing. Connect with nature, spend time with loved ones, or try new things.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "उन गतिविधियों में शामिल हों जिनका आप आनंद लेते हैं, जैसे कला, संगीत, नृत्य या लेखन। प्रकृति से जुड़ें, प्रियजनों के साथ समय बिताएं, या नई चीजें आज़माएं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "tech_tools",
+      "keywords": ["apps", "tools", "online therapy", "mindfulness", "self-care", "ऐप्स", "उपकरण", "ऑनलाइन थेरेपी", "माइंडफुलनेस", "आत्म-देखभाल"],
+      "en": "Use apps for relaxation, mindfulness, or self-care. Connect with online communities for support and encouragement. Seek professional help through teletherapy or online resources.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "विश्राम, माइंडफुलनेस या आत्म-देखभाल के लिए ऐप्स का उपयोग करें। समर्थन और प्रोत्साहन के लिए ऑनलाइन समुदायों से जुड़ें। टेलीथेरपी या ऑनलाइन संसाधनों के माध्यम से पेशेवर मदद लें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "local_resources",
+      "keywords": ["local help", "resources", "support", "referrals", "directory", "स्थानीय सहायता", "संसाधन", "समर्थन", "संदर्भ", "निर्देशिका"],
+      "en": "Contact your local mental health association, search online directories, or ask your doctor for referrals.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपने स्थानीय मानसिक स्वास्थ्य संघ से संपर्क करें, ऑनलाइन निर्देशिकाओं में खोज करें, या अपने डॉक्टर से संदर्भ पूछें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "research",
+      "keywords": ["research", "updates", "newsletters", "experts", "conferences", "अनुसंधान", "नवीनतम जानकारी", "न्यूज़लेटर", "विशेषज्ञ", "सम्मेलन"],
+      "en": "Follow mental health organizations and experts on social media, subscribe to newsletters, and attend webinars or conferences.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "सामाजिक मीडिया पर मानसिक स्वास्थ्य संगठनों और विशेषज्ञों का पालन करें, न्यूज़लेटर की सदस्यता लें, और वेबिनार या सम्मेलनों में भाग लें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "inspiration",
+      "keywords": ["inspiration", "stories", "role models", "books", "documentaries", "प्रेरणा", "कहानियाँ", "आदर्श", "पुस्तकें", "डॉक्यूमेंट्री"],
+      "en": "Read books or articles about people who have lived with mental illness, watch documentaries, or connect with individuals who can share their experiences.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "उन लोगों के बारे में किताबें या लेख पढ़ें जो मानसिक बीमारी के साथ जी चुके हैं, डॉक्यूमेंट्री देखें, या उन व्यक्तियों से जुड़ें जो अपने अनुभव साझा कर सकते हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "volunteering",
+      "keywords": ["volunteering", "donation", "community help", "support", "awareness", "स्वयंसेवा", "दान", "सामुदायिक मदद", "समर्थन", "जागरूकता"],
+      "en": "Volunteer your time or donate to mental health organizations, raise awareness in your community, or share your own story to inspire others.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपना समय स्वयंसेवा में दें या मानसिक स्वास्थ्य संगठनों को दान दें, अपने समुदाय में जागरूकता बढ़ाएं, या दूसरों को प्रेरित करने के लिए अपनी कहानी साझा करें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "meditation",
+      "keywords": ["meditation", "mindfulness", "relaxation", "breathing", "calmness", "ध्यान", "माइंडफुलनेस", "विश्राम", "सांस", "शांति"],
+      "en": "Practice meditation daily, starting with just a few minutes and gradually increasing the time. Focus on your breath and allow thoughts to pass without judgment.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "प्रतिदिन ध्यान का अभ्यास करें, शुरुआत केवल कुछ मिनटों से करें और धीरे-धीरे समय बढ़ाएं। अपनी सांस पर ध्यान केंद्रित करें और विचारों को बिना किसी निर्णय के जाने दें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "journaling",
+      "keywords": ["journaling", "writing", "diary", "reflection", "expression", "जर्नलिंग", "लेखन", "डायरी", "चिंतन", "अभिव्यक्ति"],
+      "en": "Write your thoughts and feelings in a journal regularly. This can help you process emotions, recognize patterns, and gain clarity.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "नियमित रूप से अपने विचारों और भावनाओं को जर्नल में लिखें। यह आपको भावनाओं को संसाधित करने, पैटर्न पहचानने और स्पष्टता पाने में मदद कर सकता है।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "exercise",
+      "keywords": ["exercise", "workout", "yoga", "running", "fitness", "व्यायाम", "कसरत", "योग", "दौड़ना", "फिटनेस"],
+      "en": "Engage in regular physical activity, whether it’s walking, running, yoga, or any sport you enjoy. Exercise boosts mood and reduces stress.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "नियमित शारीरिक गतिविधि में भाग लें, चाहे वह चलना, दौड़ना, योग या कोई खेल हो जो आपको पसंद हो। व्यायाम मूड बढ़ाता है और तनाव कम करता है।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्य के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "nutrition",
+      "keywords": ["nutrition", "diet", "healthy eating", "food", "well-being", "पोषण", "आहार", "स्वस्थ भोजन", "खाना", "कल्याण"],
+      "en": "Maintain a balanced diet, eat plenty of fruits and vegetables, and stay hydrated. Avoid excessive caffeine and processed foods.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "संतुलित आहार बनाए रखें, पर्याप्त फल और सब्जियां खाएं, और हाइड्रेटेड रहें। अत्यधिक कैफीन और संसाधित भोजन से बचें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्य के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "hydration",
+      "keywords": ["hydration", "water", "drink", "fluids", "health", "हाइड्रेशन", "पानी", "पेय", "तरल", "स्वास्थ्य"],
+      "en": "Drink enough water throughout the day to stay hydrated. Proper hydration supports physical and mental health.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "दिनभर पर्याप्त पानी पिएं ताकि हाइड्रेटेड रहें। उचित हाइड्रेशन शारीरिक और मानसिक स्वास्थ्य का समर्थन करता है।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्य के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "support_system",
+      "keywords": ["support system", "friends", "family", "help groups", "encouragement", "सहायता प्रणाली", "मित्र", "परिवार", "समूह", "प्रोत्साहन"],
+      "en": "Build a support system of friends, family, or support groups who can listen and provide encouragement during difficult times.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "मित्रों, परिवार या समर्थन समूहों की एक सहायता प्रणाली बनाएं जो कठिन समय में सुन सकें और प्रोत्साहन दे सकें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्य के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "therapy",
+      "keywords": ["therapy", "counseling", "psychologist", "help", "professional", "थेरेपी", "परामर्श", "मनोवैज्ञानिक", "मदद", "पेशेवर"],
+      "en": "Consider talking to a licensed therapist or counselor who can help you work through challenges and develop coping strategies.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "किसी लाइसेंस प्राप्त चिकित्सक या काउंसलर से बात करने पर विचार करें जो आपको चुनौतियों से निपटने और मुकाबला रणनीतियों को विकसित करने में मदद कर सके।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्य के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "mindfulness",
+      "keywords": ["mindfulness", "awareness", "focus", "present moment", "calm", "माइंडफुलनेस", "जागरूकता", "ध्यान", "वर्तमान", "शांति"],
+      "en": "Practice mindfulness by paying attention to the present moment, noticing your thoughts and sensations without judgment.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "वर्तमान क्षण पर ध्यान देकर माइंडफुलनेस का अभ्यास करें, अपने विचारों और संवेदनाओं को बिना किसी निर्णय के नोटिस करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्य के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "breathing",
+      "keywords": ["breathing", "deep breath", "relaxation", "calm", "stress relief", "सांस", "गहरी सांस", "विश्राम", "शांति", "तनाव कम"],
+      "en": "Use deep breathing exercises to calm your mind and reduce stress. Techniques like 4-7-8 breathing can be effective.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपने मन को शांत करने और तनाव कम करने के लिए गहरी सांस लेने के व्यायाम का उपयोग करें। 4-7-8 जैसी तकनीकें प्रभावी हो सकती हैं।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्य के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "self_care",
+      "keywords": ["self-care", "relaxation", "me time", "wellness", "activities", "स्व-देखभाल", "विश्राम", "समय", "कल्याण", "गतिविधियाँ"],
+      "en": "Take time for self-care activities you enjoy, such as reading, taking a bath, listening to music, or engaging in hobbies.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपनी पसंद की स्व-देखभाल गतिविधियों के लिए समय निकालें, जैसे पढ़ना, स्नान करना, संगीत सुनना, या शौक में भाग लेना।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्य के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "hobbies",
+      "keywords": ["hobbies", "activities", "creativity", "art", "enjoyment", "शौक", "गतिविधियाँ", "रचनात्मकता", "कला", "आनंद"],
+      "en": "Engage in hobbies or activities that bring you joy and relaxation. Creative outlets can improve mood and reduce stress.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "ऐसे शौक या गतिविधियों में भाग लें जो आपको खुशी और विश्राम दें। रचनात्मक माध्यम मूड सुधार सकते हैं और तनाव कम कर सकते हैं।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्य के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "nature",
+      "keywords": ["nature", "outdoors", "park", "hiking", "environment", "प्रकृति", "बाहरी", "पार्क", "पहाड़ चढ़ना", "पर्यावरण"],
+      "en": "Spend time outdoors in nature, whether it's walking in a park, hiking, or simply sitting in natural surroundings. Nature can be very calming.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "प्रकृति में समय बिताएं, चाहे वह पार्क में चलना, हाइकिंग करना या बस प्राकृतिक वातावरण में बैठना हो। प्रकृति बहुत शांत कर सकती है।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्य के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "pets",
+      "keywords": ["pets", "animals", "companionship", "stress relief", "therapy animals", "पालतू", "जानवर", "साथी", "तनाव कम", "थेरेपी पशु"],
+      "en": "Interacting with pets can reduce stress, improve mood, and provide companionship. Consider spending time with animals if possible.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "पालतू जानवरों के साथ बातचीत तनाव को कम कर सकती है, मूड सुधार सकती है और साथी प्रदान कर सकती है। यदि संभव हो तो जानवरों के साथ समय बिताने पर विचार करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्य के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "gratitude",
+      "keywords": ["gratitude", "thankfulness", "positive thinking", "appreciation", "happiness", "कृतज्ञता", "आभार", "सकारात्मक सोच", "सराहना", "खुशी"],
+      "en": "Practice gratitude daily by reflecting on things you are thankful for. This can improve mood and overall well-being.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "प्रतिदिन उन चीजों पर विचार करके कृतज्ञता का अभ्यास करें जिनके लिए आप आभारी हैं। यह मूड और समग्र कल्याण में सुधार कर सकता है।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्य के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "affirmations",
+      "keywords": ["affirmations", "positive statements", "confidence", "motivation", "self-worth", "पुष्टि", "सकारात्मक वाक्य", "आत्मविश्वास", "प्रेरणा", "आत्म-मूल्य"],
+      "en": "Use positive affirmations to encourage and motivate yourself. Repeat statements that reinforce your self-worth and confidence.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "स्वयं को प्रोत्साहित और प्रेरित करने के लिए सकारात्मक पुष्टि का उपयोग करें। ऐसे वाक्यों को दोहराएं जो आपकी आत्म-मूल्य और आत्मविश्वास को मजबूत करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्य के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "journal_time",
+      "keywords": ["journal", "journaling", "writing", "reflection", "diary", "जर्नल", "जर्नलिंग", "लेखन", "चिंतन", "डायरी"],
+      "en": "Set aside regular time for journaling to reflect on your thoughts and feelings, track progress, and gain insight into patterns.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपने विचारों और भावनाओं पर विचार करने, प्रगति को ट्रैक करने, और पैटर्न के बारे में अंतर्दृष्टि प्राप्त करने के लिए जर्नलिंग के लिए नियमित समय निकालें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्य के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "digital_detox",
+      "keywords": ["digital detox", "screen time", "devices", "technology break", "focus", "डिजिटल डिटॉक्स", "स्क्रीन समय", "उपकरण", "तकनीक विराम", "ध्यान"],
+      "en": "Take breaks from digital devices to reduce stress, improve focus, and reconnect with yourself and your surroundings.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "तनाव कम करने, ध्यान सुधारने, और अपने आप और अपने वातावरण के साथ फिर से जुड़ने के लिए डिजिटल उपकरणों से ब्रेक लें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्य के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "sleep_hygiene",
+      "keywords": ["sleep hygiene", "bedtime routine", "good sleep", "restful sleep", "healthy sleep", "नींद की स्वच्छता", "सोने की दिनचर्या", "अच्छी नींद", "आरामदायक नींद", "स्वस्थ नींद"],
+      "en": "Follow good sleep hygiene practices: keep a consistent sleep schedule, avoid screens before bed, and create a comfortable sleeping environment.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अच्छी नींद की स्वच्छता का पालन करें: एक सुसंगत नींद अनुसूची बनाए रखें, सोने से पहले स्क्रीन से बचें, और आरामदायक नींद का वातावरण बनाएं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "time_planning",
+      "keywords": ["time planning", "day planning", "task management", "time management", "productivity", "समय की योजना", "दिन की योजना", "कार्य प्रबंधन", "समय प्रबंधन", "उत्पादकता"],
+      "en": "Plan your day and manage your time effectively to reduce stress and increase productivity. Prioritize tasks and take breaks when needed.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपना दिन योजना बनाएं और प्रभावी ढंग से समय प्रबंधन करें ताकि तनाव कम हो और उत्पादकता बढ़े। कार्यों को प्राथमिकता दें और आवश्यकता होने पर ब्रेक लें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "mindset",
+      "keywords": ["mindset", "positive thinking", "growth mindset", "optimism", "learning attitude", "मानसिकता", "सकारात्मक सोच", "विकास मानसिकता", "आशावाद", "सीखने का दृष्टिकोण"],
+      "en": "Develop a positive and growth-oriented mindset. Focus on learning from experiences and viewing challenges as opportunities for growth.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "एक सकारात्मक और विकास-उन्मुख मानसिकता विकसित करें। अनुभवों से सीखने और चुनौतियों को विकास के अवसर के रूप में देखने पर ध्यान दें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "boundaries",
+      "keywords": ["boundaries", "personal limits", "saying no", "emotional safety", "self-protection", "सीमाएँ", "व्यक्तिगत सीमाएँ", "ना कहना", "भावनात्मक सुरक्षा", "आत्म-सुरक्षा"],
+      "en": "Set clear boundaries in your personal and professional life. Learn to say no when necessary and protect your mental and emotional well-being.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपने व्यक्तिगत और पेशेवर जीवन में स्पष्ट सीमाएँ निर्धारित करें। आवश्यक होने पर 'ना' कहना सीखें और अपने मानसिक और भावनात्मक स्वास्थ्य की सुरक्षा करें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "communication",
+      "keywords": ["communication", "effective communication", "listening", "expressing", "understanding", "संचार", "प्रभावी संचार", "सुनना", "व्यक्त करना", "समझना"],
+      "en": "Practice effective communication by listening actively, expressing yourself clearly, and understanding others’ perspectives.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "सक्रिय रूप से सुनकर, स्पष्ट रूप से खुद को व्यक्त करके और दूसरों के दृष्टिकोण को समझकर प्रभावी संचार का अभ्यास करें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "positivity",
+      "keywords": ["positivity", "positive thinking", "optimism", "uplifting", "celebrating wins", "सकारात्मकता", "सकारात्मक सोच", "आशावाद", "उत्साहवर्धन", "जीत का जश्न"],
+      "en": "Focus on positive aspects of your life, celebrate small wins, and surround yourself with uplifting people.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपने जीवन के सकारात्मक पहलुओं पर ध्यान दें, छोटी जीत का जश्न मनाएं, और अपने आप को उत्साहवर्धक लोगों से घेरें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "resilience",
+      "keywords": ["resilience", "bounce back", "strength", "overcome setbacks", "mental toughness", "लचीलापन", "मजबूती", "वापस उठना", "असफलताओं से उभरना", "मानसिक ताकत"],
+      "en": "Develop resilience by facing challenges, learning from setbacks, and maintaining a hopeful outlook.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "चुनौतियों का सामना करके, असफलताओं से सीखकर और आशावादी दृष्टिकोण बनाए रखकर लचीलापन विकसित करें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "empathy",
+      "keywords": ["empathy", "understanding", "compassion", "caring", "sharing feelings", "सहानुभूति", "समझ", "करुणा", "देखभाल", "भावनाएँ साझा करना"],
+      "en": "Practice empathy by trying to understand and share the feelings of others without judgment.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "दूसरों की भावनाओं को बिना किसी निर्णय के समझने और साझा करने का प्रयास करके सहानुभूति का अभ्यास करें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "mind_body",
+      "keywords": ["mind body connection", "mind and body", "health link", "body and mind", "wellness", "मन-शरीर संबंध", "मन और शरीर", "स्वास्थ्य संबंध", "शरीर और मन", "कल्याण"],
+      "en": "Pay attention to the connection between your mind and body. Physical health affects mental health and vice versa.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपने मन और शरीर के बीच संबंध पर ध्यान दें। शारीरिक स्वास्थ्य मानसिक स्वास्थ्य को प्रभावित करता है और इसके विपरीत भी।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "gratitude_journal",
+      "keywords": ["gratitude journal", "thankfulness", "daily gratitude", "appreciation", "noting gratitude", "कृतज्ञता जर्नल", "आभार", "दैनिक कृतज्ञता", "सराहना", "आभार नोट करना"],
+      "en": "Keep a gratitude journal to note daily things you are thankful for. This practice can enhance your overall mood.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "एक कृतज्ञता जर्नल रखें ताकि आप प्रतिदिन उन चीजों को नोट कर सकें जिनके लिए आप आभारी हैं। यह अभ्यास आपके समग्र मूड को बढ़ा सकता है।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "self_reflection",
+      "keywords": ["self reflection", "introspection", "self awareness", "personal growth", "reflecting", "आत्म-प्रतिबिंब", "आत्म-चिंतन", "आत्म-जागरूकता", "व्यक्तिगत विकास", "विचार करना"],
+      "en": "Take time for self-reflection to understand your thoughts, feelings, and behaviors. This can help with personal growth.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपने विचारों, भावनाओं और व्यवहारों को समझने के लिए आत्म-प्रतिबिंब के लिए समय निकालें। यह व्यक्तिगत विकास में मदद कर सकता है।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "positive_rituals",
+      "keywords": ["positive rituals", "daily routine", "healthy habits", "morning rituals", "wellbeing practices", "सकारात्मक रीति-रिवाज", "दैनिक दिनचर्या", "स्वस्थ आदतें", "सुबह की आदतें", "कल्याण अभ्यास"],
+      "en": "Incorporate positive rituals into your daily routine, such as morning stretches, affirmations, or meditation.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपनी दैनिक दिनचर्या में सकारात्मक रीति-रिवाज शामिल करें, जैसे सुबह की स्ट्रेचिंग, पुष्टि, या ध्यान।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "journaling_habit",
+      "keywords": ["journaling habit", "regular journaling", "writing habit", "daily journaling", "reflective writing", "जर्नलिंग आदत", "नियमित जर्नलिंग", "लेखन आदत", "दैनिक लेखन", "चिंतनशील लेखन"],
+      "en": "Make journaling a regular habit to express your thoughts, monitor progress, and reduce stress.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "जर्नलिंग को एक नियमित आदत बनाएं ताकि आप अपने विचार व्यक्त कर सकें, प्रगति की निगरानी कर सकें, और तनाव कम कर सकें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "relaxation",
+      "keywords": ["relaxation", "relaxation techniques", "calmness", "stress relief", "guided relaxation", "विश्राम", "विश्राम तकनीक", "शांति", "तनाव मुक्ति", "मार्गदर्शित विश्राम"],
+      "en": "Engage in relaxation techniques such as deep breathing, yoga, progressive muscle relaxation, or guided imagery.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "विश्राम तकनीकों में शामिल हों जैसे गहरी सांस लेना, योग, प्रगतिशील मांसपेशी विश्राम, या मार्गदर्शित चित्रण।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "socialsupport",
+      "keywords": ["support", "help", "friends", "family", "sharing", "सहायता", "दोस्त", "परिवार", "समर्थन", "भावनाएं"],
+      "en": "Seek support from friends, family, or support groups during difficult times. Sharing feelings can provide relief.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "कठिन समय में मित्रों, परिवार या समर्थन समूहों से सहायता प्राप्त करें। भावनाओं को साझा करना राहत प्रदान कर सकता है।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "relaxingactivities",
+      "keywords": ["relaxation", "hobbies", "music", "walk", "nature", "आराम", "गतिविधियां", "संगीत", "टहलना", "प्रकृति"],
+      "en": "Participate in activities that help you relax, such as listening to music, taking a walk, or spending time in nature.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "ऐसी गतिविधियों में भाग लें जो आपको आराम करने में मदद करें, जैसे संगीत सुनना, टहलना, या प्रकृति में समय बिताना।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "selfacceptance",
+      "keywords": ["self love", "acceptance", "confidence", "strengths", "weaknesses", "आत्मस्वीकृति", "स्वीकार", "आत्मविश्वास", "ताकत", "कमजोरियां"],
+      "en": "Practice self-acceptance by acknowledging your strengths and weaknesses without harsh judgment.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपने मजबूत और कमजोर पहलुओं को बिना कठोर निर्णय के स्वीकार करके आत्म-स्वीकृति का अभ्यास करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "mindfulbreaks",
+      "keywords": ["mindfulness", "breaks", "pause", "focus", "breathe", "सचेत", "ब्रेक", "ध्यान", "सांस", "आराम"],
+      "en": "Take mindful breaks during the day to pause, breathe, and center yourself. This can improve focus and reduce stress.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "दिन के दौरान सचेत ब्रेक लें, रुकें, सांस लें, और खुद को केंद्रित करें। यह ध्यान सुधार सकता है और तनाव कम कर सकता है।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "creativeexpression",
+      "keywords": ["creativity", "art", "music", "writing", "expression", "रचनात्मकता", "कला", "संगीत", "लेखन", "अभिव्यक्ति"],
+      "en": "Express yourself creatively through art, music, writing, or any form that feels natural and enjoyable.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "कला, संगीत, लेखन या किसी भी प्राकृतिक और आनंददायक रूप के माध्यम से खुद को रचनात्मक रूप से व्यक्त करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "goalsetting",
+      "keywords": ["goals", "planning", "success", "steps", "progress", "लक्ष्य", "योजना", "सफलता", "कदम", "प्रगति"],
+      "en": "Set realistic and achievable goals. Break them into smaller steps and track your progress over time.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "वास्तविक और प्राप्त करने योग्य लक्ष्य निर्धारित करें। उन्हें छोटे कदमों में विभाजित करें और समय के साथ अपनी प्रगति ट्रैक करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "positivethinking",
+      "keywords": ["positive", "optimism", "thoughts", "mindset", "outlook", "सकारात्मक", "आशावाद", "विचार", "मानसिकता", "दृष्टिकोण"],
+      "en": "Focus on positive thinking by challenging negative thoughts and reinforcing optimistic perspectives.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "नकारात्मक विचारों को चुनौती देकर और आशावादी दृष्टिकोण को मजबूत करके सकारात्मक सोच पर ध्यान दें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "selfmotivation",
+      "keywords": ["motivation", "affirmations", "goals", "commitment", "visualization", "प्रेरणा", "पुष्टिकरण", "लक्ष्य", "प्रतिबद्धता", "कल्पना"],
+      "en": "Use self-motivation techniques like affirmations, rewards, and visualization to stay committed to your goals.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "सकारात्मक पुष्टि, पुरस्कार और विज़ुअलाइज़ेशन जैसी स्व-प्रेरणा तकनीकों का उपयोग करके अपने लक्ष्यों के प्रति प्रतिबद्ध रहें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "copingskills",
+      "keywords": ["coping", "stress", "anxiety", "journaling", "techniques", "मुकाबला", "तनाव", "चिंता", "जर्नलिंग", "तकनीक"],
+      "en": "Develop coping skills for stress, anxiety, and emotional challenges. Techniques include deep breathing, journaling, and seeking support.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "तनाव, चिंता और भावनात्मक चुनौतियों के लिए मुकाबला कौशल विकसित करें। तकनीकों में गहरी सांस लेना, जर्नलिंग, और सहायता प्राप्त करना शामिल है।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "healthyhabits",
+      "keywords": ["health", "exercise", "diet", "sleep", "hydration", "स्वास्थ्य", "व्यायाम", "आहार", "नींद", "पानी"],
+      "en": "Maintain healthy habits such as regular exercise, balanced diet, sufficient sleep, and hydration to support overall well-being.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "स्वस्थ आदतों को बनाए रखें जैसे नियमित व्यायाम, संतुलित आहार, पर्याप्त नींद और हाइड्रेशन ताकि समग्र कल्याण का समर्थन किया जा सके।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "journalingtips",
+      "keywords": ["journaling", "writing", "reflection", "emotions", "achievements", "जर्नलिंग", "लेखन", "प्रतिबिंब", "भावनाएं", "उपलब्धियां"],
+      "en": "Use journaling tips like writing without judgment, exploring emotions, and reflecting on achievements to enhance your practice.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "जर्नलिंग युक्तियों का उपयोग करें जैसे बिना निर्णय के लिखना, भावनाओं का पता लगाना, और अपनी उपलब्धियों पर विचार करना ताकि आपका अभ्यास बेहतर हो सके।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "positiveroutines",
+      "keywords": ["routine", "habits", "daily life", "growth", "well-being", "दिनचर्या", "आदतें", "दैनिक जीवन", "विकास", "कल्याण"],
+      "en": "Create positive daily routines that include activities for mental and physical health, relaxation, and personal growth.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "सकारात्मक दैनिक दिनचर्या बनाएं जिसमें मानसिक और शारीरिक स्वास्थ्य, विश्राम और व्यक्तिगत विकास के लिए गतिविधियां शामिल हों।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "selfawareness",
+      "keywords": ["awareness", "introspection", "thoughts", "emotions", "choices", "जागरूकता", "आत्मनिरीक्षण", "विचार", "भावनाएं", "चयन"],
+      "en": "Increase self-awareness by observing your thoughts, emotions, and behaviors. This helps in making conscious choices.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपने विचारों, भावनाओं और व्यवहारों का अवलोकन करके आत्म-जागरूकता बढ़ाएं। यह सचेत विकल्प बनाने में मदद करता है।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "relaxationtechniques",
+      "keywords": ["relaxation", "stress relief", "meditation", "yoga", "breathing", "विश्राम", "तनाव मुक्ति", "ध्यान", "योग", "सांस"],
+      "en": "Learn and practice various relaxation techniques like guided meditation, progressive muscle relaxation, or yoga to reduce stress.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "तनाव कम करने के लिए मार्गदर्शित ध्यान, प्रगतिशील मांसपेशी विश्राम, या योग जैसी विभिन्न विश्राम तकनीकों को सीखें और अभ्यास करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "selfcareplan",
+      "keywords": ["self-care plan", "daily activities", "weekly activities", "well-being", "स्व-देखभाल योजना", "दैनिक गतिविधियां", "साप्ताहिक गतिविधियां", "कल्याण"],
+      "en": "Create a self-care plan that includes daily and weekly activities to nurture your mental, emotional, and physical health.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "एक स्व-देखभाल योजना बनाएं जिसमें मानसिक, भावनात्मक और शारीरिक स्वास्थ्य को पोषण देने के लिए दैनिक और साप्ताहिक गतिविधियां शामिल हों।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "healthyboundaries",
+      "keywords": ["boundaries", "limits", "relationships", "communication", "स्वस्थ सीमाएं", "सीमाएं", "संबंध", "संचार"],
+      "en": "Maintain healthy boundaries by clearly communicating needs, limits, and expectations in relationships.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "संबंधों में आवश्यकताओं, सीमाओं और अपेक्षाओं को स्पष्ट रूप से संवाद करके स्वस्थ सीमाओं को बनाए रखें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "positiverelationships",
+      "keywords": ["positive relationships", "respect", "empathy", "support", "सकारात्मक संबंध", "सम्मान", "सहानुभूति", "समर्थन"],
+      "en": "Cultivate positive relationships by showing respect, practicing empathy, and offering support to others.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "सम्मान दिखाकर, सहानुभूति का अभ्यास करके, और दूसरों को समर्थन प्रदान करके सकारात्मक संबंध विकसित करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "stressmanagement",
+      "keywords": ["stress management", "relaxation", "sleep", "exercise", "तनाव प्रबंधन", "विश्राम", "नींद", "व्यायाम"],
+      "en": "Manage stress through activities like mindfulness, exercise, proper sleep, relaxation techniques, and seeking support when needed.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "सचेतनता, व्यायाम, उचित नींद, विश्राम तकनीक और आवश्यकता होने पर सहायता प्राप्त करने जैसी गतिविधियों के माध्यम से तनाव प्रबंधन करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "emotionalregulation",
+      "keywords": ["emotions", "regulation", "coping", "triggers", "भावनाएं", "नियमन", "मुकाबला", "ट्रिगर्स"],
+      "en": "Practice emotional regulation by identifying emotions, understanding triggers, and using coping strategies to respond effectively.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "भावनाओं की पहचान करके, ट्रिगर्स को समझकर और प्रभावी ढंग से प्रतिक्रिया देने के लिए मुकाबला रणनीतियों का उपयोग करके भावनात्मक नियमन का अभ्यास करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "anxiety",
+      "keywords": ["anxiety", "stress", "worry", "grounding", "चिंता", "तनाव", "चिंताएं", "ग्राउंडिंग"],
+      "en": "Manage anxiety by practicing mindfulness, deep breathing, grounding exercises, and seeking support from professionals or trusted people.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "सचेतनता, गहरी सांस, ग्राउंडिंग अभ्यास का अभ्यास करके, और पेशेवरों या विश्वसनीय लोगों से सहायता प्राप्त करके चिंता का प्रबंधन करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "depression",
+      "keywords": ["depression", "sadness", "low mood", "mental health", "अवसाद", "उदासी", "कम मूड", "मानसिक स्वास्थ्य"],
+      "en": "Address depression by seeking professional help, maintaining social connections, engaging in enjoyable activities, and practicing self-care.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "पेशेवर मदद लेकर, सामाजिक संबंध बनाए रखकर, सुखद गतिविधियों में भाग लेकर और स्व-देखभाल का अभ्यास करके अवसाद का समाधान करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "mindfulness",
+      "keywords": ["mindfulness", "present moment", "meditation", "breathing", "सचेतनता", "वर्तमान क्षण", "ध्यान", "सांस"],
+      "en": "Practice mindfulness by paying attention to the present moment without judgment, using meditation, breathing exercises, or mindful activities.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "ध्यान, सांस लेने के अभ्यास, या सचेत गतिविधियों का उपयोग करके बिना किसी निर्णय के वर्तमान क्षण पर ध्यान देकर सचेतनता का अभ्यास करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "selfesteem",
+      "keywords": ["self-esteem", "confidence", "respect", "strengths", "आत्म-सम्मान", "आत्मविश्वास", "सम्मान", "ताकत"],
+      "en": "Boost self-esteem by recognizing your strengths, celebrating achievements, and treating yourself with kindness and respect.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपनी ताकत की पहचान करके, उपलब्धियों का जश्न मनाकर, और अपने साथ दयालुता और सम्मान के साथ व्यवहार करके आत्म-सम्मान बढ़ाएं।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "motivation",
+      "keywords": ["motivation", "goals", "progress", "reward", "प्रेरणा", "लक्ष्य", "प्रगति", "पुरस्कार"],
+      "en": "Increase motivation by setting clear goals, breaking tasks into manageable steps, and rewarding yourself for progress.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "स्पष्ट लक्ष्य निर्धारित करके, कार्यों को प्रबंधनीय चरणों में विभाजित करके, और प्रगति के लिए खुद को पुरस्कृत करके प्रेरणा बढ़ाएं।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "stress",
+      "keywords": ["stress", "pressure", "relaxation", "time management", "तनाव", "दबाव", "विश्राम", "समय प्रबंधन"],
+      "en": "Reduce stress through relaxation techniques, time management, regular physical activity, and seeking support when needed.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "विश्राम तकनीकों, समय प्रबंधन, नियमित शारीरिक गतिविधि और आवश्यकता होने पर सहायता प्राप्त करके तनाव कम करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "copingstrategies",
+      "keywords": ["coping strategies", "journaling", "mindfulness", "support", "मुकाबला रणनीतियां", "जर्नलिंग", "सचेतनता", "समर्थन"],
+      "en": "Develop coping strategies like journaling, talking to a trusted friend, practicing mindfulness, and using relaxation techniques.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "जर्नलिंग, किसी विश्वसनीय मित्र से बात करना, सचेतनता का अभ्यास करना, और विश्राम तकनीकों का उपयोग करना जैसी मुकाबला रणनीतियाँ विकसित करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "positivemindset",
+      "keywords": ["positive mindset", "gratitude", "optimism", "strengths", "सकारात्मक मानसिकता", "कृतज्ञता", "आशावाद", "मजबूतियां"],
+      "en": "Maintain a positive mindset by focusing on strengths, practicing gratitude, and challenging negative thoughts.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "मजबूतियों पर ध्यान केंद्रित करके, कृतज्ञता का अभ्यास करके और नकारात्मक विचारों को चुनौती देकर सकारात्मक मानसिकता बनाए रखें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "selfcare",
+      "keywords": ["self-care", "well-being", "mental health", "activities", "स्व-देखभाल", "कल्याण", "मानसिक स्वास्थ्य", "गतिविधियां"],
+      "en": "Practice self-care regularly by engaging in activities that nurture your mental, emotional, and physical well-being.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "ऐसी गतिविधियों में नियमित रूप से भाग लेकर स्व-देखभाल का अभ्यास करें जो आपके मानसिक, भावनात्मक और शारीरिक कल्याण को पोषण दें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "journaling",
+      "keywords": ["journaling", "reflection", "self-awareness", "emotions", "जर्नलिंग", "प्रतिबिंब", "आत्म-जागरूकता", "भावनाएं"],
+      "en": "Use journaling to reflect on thoughts, emotions, and experiences. This can enhance self-awareness and emotional processing.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "विचारों, भावनाओं और अनुभवों पर प्रतिबिंबित करने के लिए जर्नलिंग का उपयोग करें। यह आत्म-जागरूकता और भावनात्मक प्रसंस्करण को बढ़ा सकता है।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "exercise",
+      "keywords": ["exercise", "physical activity", "fitness", "mental health", "व्यायाम", "शारीरिक गतिविधि", "फिटनेस", "मानसिक स्वास्थ्य"],
+      "en": "Engage in regular physical exercise to improve mood, reduce stress, and support overall mental health.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "मूड सुधारने, तनाव कम करने और समग्र मानसिक स्वास्थ्य का समर्थन करने के लिए नियमित शारीरिक व्यायाम में शामिल हों।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "sleephygiene",
+      "keywords": ["sleep hygiene", "sleep schedule", "bedtime routine", "rest", "नींद की आदत", "नींद अनुसूची", "सोने की दिनचर्या", "आराम"],
+      "en": "Maintain good sleep hygiene by establishing a consistent sleep schedule, creating a relaxing bedtime routine, and minimizing screen time before bed.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "एक सुसंगत नींद अनुसूची स्थापित करके, आरामदायक सोने की दिनचर्या बनाकर, और सोने से पहले स्क्रीन समय कम करके अच्छी नींद की आदत बनाए रखें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "nutrition",
+      "keywords": ["nutrition", "diet", "balanced food", "mental health", "पोषण", "आहार", "संतुलित भोजन", "मानसिक स्वास्थ्य"],
+      "en": "Support mental health with proper nutrition, including a balanced diet rich in fruits, vegetables, whole grains, and lean proteins.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "मानसिक स्वास्थ्य का समर्थन करने के लिए उचित पोषण लें, जिसमें फलों, सब्जियों, साबुत अनाज और लीन प्रोटीन से भरपूर संतुलित आहार शामिल हो।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "hydration",
+      "keywords": ["hydration", "water", "fluid intake", "energy", "हाइड्रेशन", "पानी", "तरल सेवन", "ऊर्जा"],
+      "en": "Stay hydrated throughout the day, as dehydration can affect mood, energy, and cognitive functioning.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "दिन भर हाइड्रेटेड रहें, क्योंकि निर्जलीकरण मूड, ऊर्जा और संज्ञानात्मक कार्य को प्रभावित कर सकता है।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "socialconnections",
+      "keywords": ["social connections", "relationships", "support", "isolation", "सामाजिक संबंध", "संबंध", "समर्थन", "अलगाव"],
+      "en": "Maintain social connections to reduce feelings of isolation, enhance support, and improve emotional well-being.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अलगाव की भावनाओं को कम करने, समर्थन बढ़ाने और भावनात्मक कल्याण में सुधार करने के लिए सामाजिक संबंध बनाए रखें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "mindset",
+      "keywords": ["mindset", "growth mindset", "learning", "challenges", "मानसिकता", "विकासशील मानसिकता", "सीखना", "चुनौतियां"],
+      "en": "Cultivate a growth mindset by viewing challenges as opportunities to learn and grow, rather than as obstacles.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "चुनौतियों को बाधाओं के रूप में नहीं बल्कि सीखने और बढ़ने के अवसर के रूप में देखकर विकासशील मानसिकता विकसित करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "gratitude",
+      "keywords": ["gratitude", "thankfulness", "happiness", "resilience", "कृतज्ञता", "आभार", "खुशी", "लचीलापन"],
+      "en": "Practice gratitude daily by acknowledging the things you are thankful for, which can enhance happiness and resilience.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "उन चीजों को पहचानकर जिनके लिए आप आभारी हैं, प्रतिदिन कृतज्ञता का अभ्यास करें, जो खुशी और लचीलापन बढ़ा सकता है।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "relaxationexercises",
+      "keywords": ["relaxation exercises", "meditation", "deep breathing", "calmness", "विश्राम तकनीक", "ध्यान", "गहरी सांस", "शांति"],
+      "en": "Perform relaxation exercises like progressive muscle relaxation, deep breathing, or guided meditation to calm your mind and body.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपने मन और शरीर को शांत करने के लिए प्रगतिशील मांसपेशी विश्राम, गहरी सांस या मार्गदर्शित ध्यान जैसी विश्राम तकनीकें करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "therapy",
+      "keywords": ["therapy", "counseling", "professional help", "support", "थेरेपी", "परामर्श", "पेशेवर मदद", "समर्थन"],
+      "en": "Seek therapy from licensed professionals to explore thoughts, emotions, and behaviors in a safe and supportive environment.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "सुरक्षित और सहायक वातावरण में विचारों, भावनाओं और व्यवहारों की खोज के लिए लाइसेंस प्राप्त पेशेवरों से थेरेपी प्राप्त करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "meditation",
+      "keywords": ["meditation", "focus", "stress reduction", "emotional balance", "ध्यान", "फोकस", "तनाव कम करना", "भावनात्मक संतुलन"],
+      "en": "Practice meditation regularly to improve focus, reduce stress, and enhance emotional regulation.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "ध्यान का नियमित अभ्यास करें ताकि ध्यान में सुधार हो, तनाव कम हो और भावनात्मक नियमन बढ़े।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "breathing",
+      "keywords": ["breathing", "deep breathing", "relaxation", "anxiety", "सांस", "गहरी सांस", "विश्राम", "चिंता"],
+      "en": "Use deep breathing techniques to reduce stress, manage anxiety, and promote relaxation.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "तनाव कम करने, चिंता का प्रबंधन करने और विश्राम को बढ़ावा देने के लिए गहरी सांस लेने की तकनीकों का उपयोग करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "journalingbenefits",
+      "keywords": ["journaling benefits", "self-awareness", "relief", "tracking progress", "जर्नलिंग लाभ", "आत्म-जागरूकता", "राहत", "प्रगति ट्रैक करना"],
+      "en": "Journaling can improve self-awareness, help process emotions, track progress, and provide a sense of relief.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "जर्नलिंग आत्म-जागरूकता में सुधार कर सकती है, भावनाओं को संसाधित करने में मदद कर सकती है, प्रगति को ट्रैक कर सकती है और राहत की भावना प्रदान कर सकती है।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "selfreflectiontips",
+      "keywords": ["self-reflection", "reflection tips", "emotions", "evaluation", "आत्म-प्रतिबिंब", "प्रतिबिंब युक्तियां", "भावनाएं", "मूल्यांकन"],
+      "en": "Use self-reflection tips like asking yourself questions, reviewing daily experiences, and evaluating your emotions and behaviors.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपने आप से प्रश्न पूछना, दैनिक अनुभवों की समीक्षा करना, और अपनी भावनाओं और व्यवहारों का मूल्यांकन करना जैसी आत्म-प्रतिबिंब युक्तियों का उपयोग करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "positivehabits",
+      "keywords": ["positive habits", "healthy habits", "well-being", "mental health", "सकारात्मक आदतें", "स्वस्थ आदतें", "कल्याण", "मानसिक स्वास्थ्य"],
+      "en": "Build positive habits by consistently practicing behaviors that support your mental, emotional, and physical health.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "ऐसी आदतों का लगातार अभ्यास करके सकारात्मक आदतें बनाएं जो आपके मानसिक, भावनात्मक और शारीरिक स्वास्थ्य का समर्थन करें।\n\nकृपया ध्यान दें: यह केवल शैक्षिक उद्देश्यों के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए किसी योग्य पेशेवर से परामर्श करें।"
+    },
+    {
+      "id": "relaxationroutine",
+      "keywords": ["relaxation routine", "evening meditation", "stretching", "calm activities", "bedtime routine", "विश्राम दिनचर्या", "शाम का ध्यान", "स्ट्रेचिंग", "शांत गतिविधियां", "सोने की दिनचर्या"],
+      "intent": "mental_health",
+      "en": "Create a relaxation routine that fits your lifestyle, such as evening meditation, stretching, or calming activities before bed.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "अपनी जीवनशैली के अनुरूप एक विश्राम दिनचर्या बनाएं, जैसे शाम का ध्यान, स्ट्रेचिंग, या सोने से पहले शांत गतिविधियां।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "mentalwellbeing",
+        "keywords": ["mental well-being", "self-care", "stress management", "coping strategies", "emotional health", "मानसिक कल्याण", "स्व-देखभाल", "तनाव प्रबंधन", "मुकाबला रणनीतियाँ", "भावनात्मक स्वास्थ्य"],
+        "intent": "mental_health",
+        "en": "Prioritize your mental well-being by engaging in self-care, managing stress, seeking support, and practicing positive coping strategies.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "स्व-देखभाल में भाग लेकर, तनाव का प्रबंधन करके, सहायता प्राप्त करके और सकारात्मक मुकाबला रणनीतियों का अभ्यास करके अपने मानसिक कल्याण को प्राथमिकता दें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "emotionalwellbeing",
+        "keywords": ["emotional well-being", "mindfulness", "expression of feelings", "social support", "emotional care", "भावनात्मक कल्याण", "सचेतनता", "भावनाओं की अभिव्यक्ति", "सामाजिक समर्थन", "भावनात्मक देखभाल"],
+        "intent": "mental_health",
+        "en": "Focus on emotional well-being by expressing feelings, practicing mindfulness, maintaining social connections, and seeking support when needed.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "भावनात्मक कल्याण पर ध्यान केंद्रित करें, भावनाओं को व्यक्त करें, सचेतनता का अभ्यास करें, सामाजिक संबंध बनाए रखें और आवश्यकता होने पर सहायता प्राप्त करें।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "selfhelp",
+        "keywords": ["self-help", "personal growth", "books", "podcasts", "online courses", "स्व-सहायता", "व्यक्तिगत विकास", "पुस्तकें", "पॉडकास्ट", "ऑनलाइन पाठ्यक्रम"],
+        "intent": "mental_health",
+        "en": "Explore self-help resources like books, podcasts, or online courses to enhance personal growth and mental health.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "व्यक्तिगत विकास और मानसिक स्वास्थ्य बढ़ाने के लिए पुस्तकों, पॉडकास्ट या ऑनलाइन पाठ्यक्रम जैसी स्व-सहायता संसाधनों का पता लगाएं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "physicalsymptoms",
+        "keywords": ["physical symptoms", "headache", "fatigue", "digestive issues", "stress-related symptoms", "शारीरिक लक्षण", "सिरदर्द", "थकान", "पाचन समस्याएं", "तनाव-संबंधित लक्षण"],
+        "intent": "mental_health",
+        "en": "Mental health issues can sometimes manifest as physical symptoms, such as headaches, neck or back pain, fatigue, or digestive issues, often linked to stress or anxiety.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "मानसिक स्वास्थ्य समस्याएं कभी-कभी शारीरिक लक्षणों के रूप में प्रकट हो सकती हैं, जैसे सिरदर्द, गर्दन या पीठ में दर्द, थकान, या पाचन संबंधी समस्याएं, जो अक्सर तनाव या चिंता से जुड़ी होती हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "burnout",
+        "keywords": ["burnout", "stress exhaustion", "emotional fatigue", "overwork", "self-care needed", "बर्नआउट", "तनाव थकान", "भावनात्मक थकान", "अधिक काम", "आत्म-देखभाल आवश्यक"],
+        "intent": "mental_health",
+        "en": "Burnout is a state of emotional, physical, and mental exhaustion caused by prolonged stress. Taking breaks, practicing self-care, and seeking support can help.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "बर्नआउट लंबे समय तक तनाव के कारण होने वाली भावनात्मक, शारीरिक और मानसिक थकान की स्थिति है। ब्रेक लेना, आत्म-देखभाल करना और सहायता प्राप्त करना मददगार हो सकता है।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "fatigue",
+        "keywords": ["fatigue", "mental exhaustion", "overwork", "lack of rest", "stress fatigue", "थकान", "मानसिक थकान", "अधिक काम", "आराम की कमी", "तनाव से थकान"],
+        "intent": "mental_health",
+        "en": "Mental fatigue can result from overwork, stress, or lack of rest. Adequate sleep, relaxation, and exercise are helpful remedies.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "मानसिक थकान अधिक काम, तनाव या आराम की कमी के कारण हो सकती है। पर्याप्त नींद, विश्राम और व्यायाम इसके लिए सहायक हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "isolation",
+        "keywords": ["isolation", "loneliness", "social withdrawal", "disconnection", "support needed", "एकाकीपन", "अकेलापन", "सामाजिक दूरी", "वियोजन", "समर्थन आवश्यक"],
+        "intent": "mental_health",
+        "en": "Isolation may worsen mental health. Staying connected with friends, family, or support groups can reduce feelings of loneliness.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "एकाकीपन मानसिक स्वास्थ्य को बिगाड़ सकता है। दोस्तों, परिवार या सहायता समूहों से जुड़े रहना अकेलेपन की भावना को कम कर सकता है।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "crying",
+      "keywords": ["crying", "emotional release", "tears", "stress signal", "depression sign", "रोना", "भावनात्मक प्रतिक्रिया", "आंसू", "तनाव संकेत", "अवसाद संकेत"],
+      "intent": "mental_health",
+      "en": "Crying can be a natural emotional release. Persistent or uncontrollable crying may signal underlying stress or depression.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "रोना एक प्राकृतिक भावनात्मक प्रतिक्रिया है। लगातार या अनियंत्रित रोना गहरे तनाव या अवसाद का संकेत हो सकता है।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "counseling",
+        "keywords": ["counseling", "talk therapy", "emotional support", "professional guidance", "मनोवैज्ञानिक परामर्श", "टॉक थेरेपी", "भावनात्मक समर्थन", "पेशेवर मार्गदर्शन"],
+        "intent": "mental_health",
+        "en": "Counseling involves talking with a trained professional to understand and manage emotional or psychological issues.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "काउंसलिंग में प्रशिक्षित पेशेवर से बात करके भावनात्मक या मनोवैज्ञानिक समस्याओं को समझना और प्रबंधित करना शामिल है।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "cbt",
+        "keywords": ["CBT", "Cognitive Behavioral Therapy", "behavior change", "negative thinking", "structured therapy", "सीबीटी", "संज्ञानात्मक व्यवहार थेरेपी", "व्यवहार परिवर्तन", "नकारात्मक सोच", "संरचित थेरेपी"],
+        "intent": "mental_health",
+        "en": "CBT (Cognitive Behavioral Therapy) is a structured therapy that helps identify and change negative thinking and behavior patterns.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "सीबीटी (संज्ञानात्मक व्यवहार थेरेपी) एक संरचित थेरेपी है जो नकारात्मक सोच और व्यवहार पैटर्न की पहचान और बदलाव में मदद करती है।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "psychotherapy",
+        "keywords": ["psychotherapy", "talk therapy", "emotional exploration", "coping strategies", "thought processing", "साइकोथेरेपी", "टॉक थेरेपी", "भावनात्मक खोज", "मुकाबला रणनीतियाँ", "विचार प्रसंस्करण"],
+        "intent": "mental_health",
+        "en": "Psychotherapy includes various talk therapies that help individuals explore thoughts, feelings, and coping strategies.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "साइकोथेरेपी में विभिन्न टॉक थेरेपी शामिल हैं जो व्यक्तियों को विचारों, भावनाओं और मुकाबला करने की रणनीतियों को समझने में मदद करती हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "grouptherapy",
+        "keywords": ["group therapy", "shared experiences", "supportive setting", "peer support", "ग्रुप थेरेपी", "अनुभव साझा करना", "सहायक वातावरण", "सहकर्मी समर्थन"],
+        "intent": "mental_health",
+        "en": "Group therapy allows individuals to share experiences in a supportive setting with others facing similar challenges.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "ग्रुप थेरेपी व्यक्तियों को एक सहायक वातावरण में अपने अनुभव साझा करने की अनुमति देती है जहां अन्य लोग समान चुनौतियों का सामना कर रहे होते हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "grounding",
+        "keywords": ["grounding techniques", "present moment", "anxiety management", "flashback coping", "stress relief", "ग्राउंडिंग तकनीक", "वर्तमान क्षण", "चिंता प्रबंधन", "फ्लैशबैक मुकाबला", "तनाव राहत"],
+        "intent": "mental_health",
+        "en": "Grounding techniques help manage anxiety or flashbacks by focusing attention on the present moment.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "ग्राउंडिंग तकनीक चिंता या फ्लैशबैक को प्रबंधित करने में मदद करती है, जिससे ध्यान वर्तमान क्षण पर केंद्रित होता है।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+      "id": "gratitude",
+      "keywords": ["gratitude", "thankfulness", "appreciation", "कृतज्ञता", "आभार", "धन्यवाद"],
+      "intent": "mental_health",
+      "en": "Practicing gratitude, such as keeping a gratitude journal, can improve mood and reduce stress.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+      "hi": "कृतज्ञता का अभ्यास करना, जैसे कि आभार पत्रिका रखना, मूड को बेहतर बना सकता है और तनाव को कम कर सकता है।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "resilience",
+        "keywords": ["resilience", "adaptability", "bounce back", "coping", "लचीलापन", "अनुकूलन क्षमता", "मुकाबला"],
+        "intent": "mental_health",
+        "en": "Resilience is the ability to bounce back from challenges. Building resilience involves self-care, adaptability, and support systems.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "रेज़िलिएंस चुनौतियों से उबरने की क्षमता है। रेज़िलिएंस बनाने में आत्म-देखभाल, अनुकूलन क्षमता और समर्थन प्रणाली शामिल हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "breathing",
+        "keywords": ["breathing exercises", "deep breathing", "box breathing", "stress relief", "सांस लेने के व्यायाम", "गहरी सांस", "बॉक्स ब्रीदिंग", "तनाव राहत"],
+        "intent": "mental_health",
+        "en": "Breathing exercises, like deep breathing or box breathing, help reduce stress and calm the mind.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "सांस लेने के व्यायाम, जैसे गहरी सांस लेना या बॉक्स ब्रीदिंग, तनाव कम करने और मन को शांत करने में मदद करते हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "peer",
+        "keywords": ["peer support", "peer help", "social connection", "समकक्ष समर्थन", "सहकर्मी मदद", "सामाजिक जुड़ाव"],
+        "intent": "mental_health",
+        "en": "Peer support involves connecting with people who have similar experiences and can provide understanding and encouragement.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "पीयर सपोर्ट में उन लोगों से जुड़ना शामिल है जिनके पास समान अनुभव हैं और जो समझ और प्रोत्साहन प्रदान कर सकते हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "hotline",
+        "keywords": ["hotline", "mental health helpline", "crisis support", "हेल्पलाइन", "संकट समर्थन", "मानसिक स्वास्थ्य सहायता"],
+        "intent": "mental_health",
+        "en": "Mental health hotlines provide immediate support and guidance during emotional distress or crisis.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "मानसिक स्वास्थ्य हेल्पलाइन भावनात्मक संकट या परेशानी के दौरान तत्काल सहायता और मार्गदर्शन प्रदान करती हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "mentor",
+        "keywords": ["mentor", "guidance", "support", "coaching", "मेंटर", "मार्गदर्शन", "समर्थन", "कोचिंग"],
+        "intent": "mental_health",
+        "en": "A mentor can guide and support personal growth, especially during stressful or uncertain times.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "एक मेंटर व्यक्तिगत विकास में मार्गदर्शन और समर्थन प्रदान कर सकता है, खासकर तनावपूर्ण या अनिश्चित समय में।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "students",
+        "keywords": ["students", "academic stress", "exam pressure", "peer pressure", "छात्र", "शैक्षणिक तनाव", "परीक्षा दबाव", "सहकर्मी दबाव"],
+        "intent": "mental_health",
+        "en": "Students may face stress from academics, exams, or peer pressure. Counseling and healthy routines can help.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "छात्र अकादमिक दबाव, परीक्षाओं या सहकर्मी दबाव से तनाव का सामना कर सकते हैं। काउंसलिंग और स्वस्थ दिनचर्या मदद कर सकती है।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "workplace",
+        "keywords": ["workplace stress", "job pressure", "burnout", "कार्यस्थल तनाव", "नौकरी दबाव", "बर्नआउट"],
+        "intent": "mental_health",
+        "en": "Workplace stress can impact mental health. Regular breaks, open communication, and support programs are useful solutions.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "कार्यस्थल का तनाव मानसिक स्वास्थ्य को प्रभावित कर सकता है। नियमित ब्रेक, खुला संवाद और समर्थन कार्यक्रम उपयोगी समाधान हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "caregivers",
+        "keywords": ["caregivers", "emotional strain", "support", "self-care", "देखभाल करने वाले", "भावनात्मक दबाव", "समर्थन", "आत्म-देखभाल"],
+        "intent": "mental_health",
+        "en": "Caregivers may experience emotional strain. Support groups and self-care practices are essential for their well-being.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "देखभाल करने वाले भावनात्मक दबाव का अनुभव कर सकते हैं। सहायता समूह और आत्म-देखभाल उनके कल्याण के लिए आवश्यक हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "children",
+        "keywords": ["children", "behavior changes", "mood swings", "withdrawal", "बच्चे", "व्यवहारिक बदलाव", "मूड स्विंग", "अलगाव"],
+        "intent": "mental_health",
+        "en": "Children may show mental health concerns through behavioral changes, mood swings, or withdrawal. Early support is important.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "बच्चे मानसिक स्वास्थ्य समस्याओं को व्यवहारिक बदलाव, मूड स्विंग या अलगाव के रूप में दिखा सकते हैं। शुरुआती सहायता महत्वपूर्ण है।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "digitaldetox",
+        "keywords": ["digital detox", "screen time reduction", "social media break", "डिजिटल डिटॉक्स", "स्क्रीन समय घटाना", "सोशल मीडिया ब्रेक"],
+        "intent": "mental_health",
+        "en": "A digital detox, reducing screen time and social media use, can improve focus and lower anxiety.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "डिजिटल डिटॉक्स, यानी स्क्रीन टाइम और सोशल मीडिया उपयोग को कम करना, ध्यान केंद्रित करने और चिंता कम करने में मदद करता है।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "balance",
+        "keywords": ["balance", "work-life balance", "rest", "social life", "संतुलन", "काम-जीवन संतुलन", "आराम", "सामाजिक जीवन"],
+        "intent": "mental_health",
+        "en": "Maintaining balance between work, rest, and social life supports mental health and prevents burnout.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "काम, आराम और सामाजिक जीवन के बीच संतुलन बनाए रखना मानसिक स्वास्थ्य का समर्थन करता है और बर्नआउट से बचाता है।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    },
+    {
+        "id": "spirituality",
+        "keywords": ["spirituality", "mindfulness", "inner peace", "stress reduction", "लक्ष्यात्मता", "माइंडफुलनेस", "आंतरिक शांति", "तनाव कम करना"],
+        "intent": "mental_health",
+        "en": "Spirituality or mindfulness practices can provide inner peace, reduce stress, and increase resilience.\n\nPlease note: This is for educational purposes and not a substitute for professional mental health advice. Consult a qualified professional for guidance.",
+        "hi": "आध्यात्मिकता या माइंडफुलनेस अभ्यास आंतरिक शांति प्रदान कर सकते हैं, तनाव कम कर सकते हैं और लचीलापन बढ़ा सकते हैं।\n\nकृपया ध्यान दें: यह शैक्षिक जानकारी के लिए है और पेशेवर मानसिक स्वास्थ्य सलाह का विकल्प नहीं है। मार्गदर्शन के लिए योग्य पेशेवर से सलाह लें।"
+    }
+  ]
+}

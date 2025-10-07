@@ -1,0 +1,691 @@
+{
+  "intent": "wellness_tips",
+  "entries": [
+    {
+      "id": "hydration",
+      "keywords": ["hydration", "water intake", "drink water", "हाइड्रेशन", "पानी पीना", "जल सेवन"],
+      "en": "Drinking at least 8 glasses of water a day helps maintain hydration and supports overall health.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "दिन में कम से कम 8 गिलास पानी पीना हाइड्रेशन बनाए रखने और समग्र स्वास्थ्य को समर्थन करने में मदद करता है।\n\nकृपया ध्यान दें: ये टिप्स सामान्य स्वास्थ्य उद्देश्यों के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "sleep",
+      "keywords": ["sleep", "rest", "नींद", "आराम"],
+      "en": "Aim for 7-8 hours of sleep each night to improve mental clarity and physical health.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "मानसिक स्पष्टता और शारीरिक स्वास्थ्य सुधारने के लिए हर रात 7-8 घंटे की नींद लेने का प्रयास करें।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "exercise",
+      "keywords": ["exercise", "fitness", "व्यायाम", "शारीरिक गतिविधि"],
+      "en": "Regular physical activity, such as walking or yoga, strengthens the body and improves mood.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "नियमित शारीरिक गतिविधि, जैसे चलना या योग, शरीर को मजबूत बनाती है और मूड सुधारती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "balanced_diet",
+      "keywords": ["balanced diet", "nutrition", "संतुलित आहार", "पोषण"],
+      "en": "Eating a balanced diet rich in fruits, vegetables, and proteins helps maintain energy and immunity.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "फल, सब्ज़ियाँ और प्रोटीन से भरपूर संतुलित आहार लेने से ऊर्जा और प्रतिरक्षा बनाए रखने में मदद मिलती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "mindfulness",
+      "keywords": ["mindfulness", "awareness", "सचेतनता", "जागरूकता"],
+      "en": "Practicing mindfulness in daily activities improves awareness and emotional balance.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "रोज़मर्रा की गतिविधियों में माइंडफुलनेस का अभ्यास जागरूकता और भावनात्मक संतुलन बढ़ाता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "limiting_sugar",
+      "keywords": ["limit sugar", "healthy diet", "चीनी कम करना", "संतुलित आहार"],
+      "en": "Reducing sugar intake prevents energy crashes and supports long-term health.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "चीनी का सेवन कम करने से ऊर्जा में गिरावट रोकी जाती है और दीर्घकालिक स्वास्थ्य को समर्थन मिलता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "regular_checkup",
+      "keywords": ["health checkup", "preventive care", "स्वास्थ्य जांच", "नियमित जांच"],
+      "en": "Scheduling regular health checkups helps in early detection of diseases and maintaining overall wellness.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "नियमित स्वास्थ्य जांच कराना रोगों का जल्दी पता लगाने और समग्र स्वास्थ्य बनाए रखने में मदद करता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "hygiene",
+      "keywords": ["hygiene", "cleanliness", "स्वच्छता", "साफ-सफाई"],
+      "en": "Maintaining personal hygiene, like washing hands and brushing teeth, prevents infections.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "व्यक्तिगत स्वच्छता बनाए रखना, जैसे हाथ धोना और दांत ब्रश करना, संक्रमणों को रोकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "hydration_reminder",
+      "keywords": ["hydration", "water intake", "पानी पीना", "हाइड्रेटेड रहना"],
+      "en": "Set reminders to drink water regularly to stay hydrated throughout the day.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "पूरे दिन हाइड्रेटेड रहने के लिए नियमित रूप से पानी पीने की याद दिलाने वाले अलार्म सेट करें।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "portion_control",
+      "keywords": ["portion control", "healthy eating", "भोजन की मात्रा", "संतुलित भोजन"],
+      "en": "Controlling food portions helps maintain healthy weight and prevents overeating.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "भोजन की मात्रा नियंत्रित करने से स्वस्थ वजन बनाए रखने में मदद मिलती है और अधिक खाने से बचाव होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "fiber_intake",
+      "keywords": ["fiber intake", "dietary fiber", "फाइबर सेवन", "पोषण"],
+      "en": "Eating fiber-rich foods like fruits, vegetables, and whole grains supports digestion and gut health.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "फल, सब्ज़ियाँ और साबुत अनाज जैसे फाइबर-युक्त आहार खाने से पाचन और आंतों का स्वास्थ्य बेहतर होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "mental_breaks",
+      "keywords": ["mental breaks", "short breaks", "मानसिक विराम", "आराम"],
+      "en": "Taking short mental breaks during work reduces stress and improves productivity.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "काम के दौरान छोटे मानसिक विराम लेने से तनाव कम होता है और उत्पादकता बढ़ती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "gratitude",
+      "keywords": ["gratitude", "thankfulness", "कृतज्ञता", "आभार"],
+      "en": "Practicing gratitude daily improves happiness and overall mental wellbeing.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "रोज़ाना आभार व्यक्त करने का अभ्यास खुशहाली और समग्र मानसिक स्वास्थ्य को बढ़ाता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "relaxation_techniques",
+      "keywords": ["relaxation techniques", "stress relief", "विश्राम तकनीकें", "तनाव राहत"],
+      "en": "Learning relaxation techniques like progressive muscle relaxation reduces tension.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "प्रोग्रेसिव मसल रिलैक्सेशन जैसी विश्राम तकनीकें सीखना तनाव कम करता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "nature_walks",
+      "keywords": ["nature walks", "outdoor time", "प्रकृति सैर", "बाहरी समय"],
+      "en": "Spending time in nature or taking nature walks reduces stress and improves mood.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "प्रकृति में समय बिताना या प्राकृतिक सैर करना तनाव कम करता है और मूड सुधारता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "limit_caffeine",
+      "keywords": ["limit caffeine", "reduce coffee", "कैफीन कम करना", "कॉफ़ी कम करना"],
+      "en": "Limiting caffeine intake prevents sleep disruption and reduces anxiety.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "कैफीन का सेवन कम करने से नींद में बाधा नहीं होती और चिंता कम होती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "healthy_snacks",
+      "keywords": ["healthy snacks", "nutritious snacks", "स्वस्थ स्नैक्स", "पोषक स्नैक्स"],
+      "en": "Choosing healthy snacks like nuts, fruits, and yogurt helps maintain energy levels.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "नट्स, फल और योगर्ट जैसे स्वस्थ स्नैक्स चुनने से ऊर्जा बनाए रखने में मदद मिलती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "screen_breaks",
+      "keywords": ["screen breaks", "eye rest", "स्क्रीन ब्रेक", "आंखों का आराम"],
+      "en": "Taking regular breaks from screens reduces eye strain and improves focus.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "स्क्रीन से नियमित अंतराल पर ब्रेक लेने से आंखों की थकान कम होती है और ध्यान बढ़ता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "meditation",
+      "keywords": ["meditation", "mindfulness", "ध्यान", "सचेतनता"],
+      "en": "Daily meditation improves emotional balance and reduces stress.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "रोज़ाना ध्यान करने से भावनात्मक संतुलन बढ़ता है और तनाव कम होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "deep_breathing",
+      "keywords": ["deep breathing", "breathing exercises", "गहरी सांस", "सांस लेने के व्यायाम"],
+      "en": "Practicing deep breathing exercises helps relax the body and mind.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "गहरी सांस लेने के व्यायाम करने से शरीर और मन को आराम मिलता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "regular_stretching",
+      "keywords": ["regular stretching", "flexibility exercises", "नियमित स्ट्रेचिंग", "लचीलापन व्यायाम"],
+      "en": "Stretching regularly reduces muscle stiffness and prevents injuries.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "नियमित स्ट्रेचिंग मांसपेशियों की अकड़न कम करती है और चोटों से बचाव करती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "quit_smoking",
+      "keywords": ["quit smoking", "stop smoking", "धूम्रपान छोड़ें", "स्मोकिंग छोड़ना"],
+      "en": "Quitting smoking reduces the risk of multiple diseases and improves lung function.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "धूम्रपान छोड़ने से कई रोगों का खतरा कम होता है और फेफड़ों की कार्यक्षमता बढ़ती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "journaling",
+      "keywords": ["journaling", "writing diary", "डायरी लेखन", "जर्नलिंग"],
+      "en": "Writing in a journal daily helps manage emotions and reduces stress.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "रोज़ाना डायरी लिखने से भावनाओं को संभालने में मदद मिलती है और तनाव कम होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "sun_protection",
+      "keywords": ["sun protection", "sunscreen", "सनस्क्रीन", "सूरज से सुरक्षा"],
+      "en": "Using sunscreen protects skin from UV damage and prevents premature aging.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "सनस्क्रीन का उपयोग करने से त्वचा को UV नुकसान से बचाया जाता है और समय से पहले बुढ़ापा नहीं आता।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "strength_training",
+      "keywords": ["strength training", "weight training", "स्ट्रेंथ ट्रेनिंग", "शक्ति प्रशिक्षण"],
+      "en": "Incorporating strength training improves muscle tone and overall physical health.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "स्ट्रेंथ ट्रेनिंग शामिल करने से मांसपेशियों की टोन और समग्र शारीरिक स्वास्थ्य में सुधार होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "vitamin_rich_foods",
+      "keywords": ["vitamin-rich foods", "healthy foods", "विटामिन युक्त आहार", "स्वस्थ आहार"],
+      "en": "Eating foods rich in vitamins supports immune system and energy levels.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "विटामिन-युक्त आहार खाने से प्रतिरक्षा प्रणाली और ऊर्जा स्तर को समर्थन मिलता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "limit_junk_food",
+      "keywords": ["limit junk food", "healthy diet", "जंक फूड कम करें", "स्वस्थ भोजन"],
+      "en": "Reducing junk food intake promotes healthy weight and better nutrition.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "जंक फूड का सेवन कम करने से स्वस्थ वजन बनाए रखने और बेहतर पोषण में मदद मिलती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "oral_health",
+      "keywords": ["oral health", "dental care", "मौखिक स्वास्थ्य", "दंत स्वास्थ्य"],
+      "en": "Brushing and flossing daily prevents dental issues and maintains oral hygiene.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "रोज़ाना ब्रश और फ्लॉस करने से दांतों की समस्याओं से बचाव होता है और मौखिक स्वच्छता बनी रहती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "eye_care",
+      "keywords": ["eye care", "vision health", "आंखों की देखभाल", "दृष्टि स्वास्थ्य"],
+      "en": "Regular eye exercises and breaks from screens maintain eye health and reduce strain.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "नियमित आंखों के व्यायाम और स्क्रीन से ब्रेक लेने से आंखों का स्वास्थ्य सुरक्षित रहता है और थकान कम होती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "mental_health_check",
+      "keywords": ["mental health check", "stress check", "मानसिक स्वास्थ्य जांच", "तनाव जांच"],
+      "en": "Regular mental health check-ins help in early detection of stress or anxiety.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "नियमित मानसिक स्वास्थ्य जांच तनाव या चिंता का जल्दी पता लगाने में मदद करती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "healthy_habits",
+      "keywords": ["healthy habits", "daily routine", "स्वस्थ आदतें", "दिनचर्या"],
+      "en": "Maintaining consistent healthy habits like sleeping well, exercising, and balanced eating improves overall wellbeing.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "अच्छी नींद लेना, व्यायाम करना और संतुलित भोजन जैसे लगातार स्वस्थ आदतें बनाए रखने से समग्र स्वास्थ्य में सुधार होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "posture_breaks",
+      "keywords": ["posture breaks", "ergonomics", "मुद्रा ब्रेक", "सही बैठना"],
+      "en": "Taking breaks to adjust posture during work prevents back and neck pain.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "काम के दौरान मुद्रा समायोजित करने के लिए ब्रेक लेने से पीठ और गर्दन का दर्द कम होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "hydrating_foods",
+      "keywords": ["hydrating foods", "water-rich foods", "हाइड्रेटिंग भोजन", "पानी युक्त आहार"],
+      "en": "Eating hydrating foods like cucumbers and watermelon helps maintain hydration.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "खीरा और तरबूज जैसे हाइड्रेटिंग खाद्य पदार्थ खाने से हाइड्रेशन बनाए रखने में मदद मिलती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "relaxing_music",
+      "keywords": ["relaxing music", "music therapy", "विश्रामकारी संगीत", "आराम संगीत"],
+      "en": "Listening to relaxing music reduces stress and enhances mood.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "विश्रामकारी संगीत सुनने से तनाव कम होता है और मूड बेहतर होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "stretching_breaks",
+      "keywords": ["stretching breaks", "movement breaks", "स्ट्रेचिंग ब्रेक", "गतिविधि ब्रेक"],
+      "en": "Taking short stretching breaks during work prevents stiffness and improves circulation.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "काम के दौरान छोटे स्ट्रेचिंग ब्रेक लेने से अकड़न कम होती है और रक्त परिसंचरण बेहतर होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "balanced_lunch",
+      "keywords": ["balanced lunch", "healthy lunch", "संतुलित दोपहर का भोजन", "स्वस्थ दोपहर का भोजन"],
+      "en": "Eating a balanced lunch with vegetables, proteins, and whole grains sustains energy for the afternoon.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "सब्ज़ियाँ, प्रोटीन और साबुत अनाज के साथ संतुलित दोपहर का भोजन लेने से दोपहर के लिए ऊर्जा बनी रहती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "early_sleep",
+      "keywords": ["early sleep", "sleep schedule", "जल्दी सोना", "नींद का समय"],
+      "en": "Going to bed early helps regulate the body clock and improves sleep quality.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "जल्दी सोने से शरीर की घड़ी नियमित रहती है और नींद की गुणवत्ता बेहतर होती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "morning_routine",
+      "keywords": ["morning routine", "productive morning", "सुबह की दिनचर्या", "उत्पादक सुबह"],
+      "en": "Having a consistent morning routine improves productivity and mental clarity.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "स्थिर सुबह की दिनचर्या होने से उत्पादकता और मानसिक स्पष्टता बढ़ती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "reduce_salt",
+      "keywords": ["reduce salt", "low sodium", "नमक कम करें", "कम सोडियम"],
+      "en": "Reducing salt intake helps maintain healthy blood pressure and kidney health.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "नमक का सेवन कम करने से स्वस्थ रक्तचाप और गुर्दे के स्वास्थ्य में मदद मिलती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "avoid_late_meals",
+      "keywords": ["avoid late meals", "early dinner", "देर रात का भोजन टालें", "शाम जल्दी खाना"],
+      "en": "Avoiding late-night meals improves digestion and sleep quality.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "देर रात का भोजन टालने से पाचन और नींद की गुणवत्ता बेहतर होती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "regular_walks",
+      "keywords": ["regular walks", "post-meal walks", "नियमित सैर", "भोजन के बाद टहलना"],
+      "en": "Taking regular walks after meals aids digestion and maintains metabolism.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "भोजन के बाद नियमित रूप से टहलना पाचन में मदद करता है और मेटाबॉलिज़्म बनाए रखता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "healthy_fats",
+      "keywords": ["healthy fats", "nuts and oils", "स्वस्थ वसा", "नट्स और तेल"],
+      "en": "Including healthy fats like nuts and olive oil supports heart and brain health.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "नट्स और ऑलिव ऑयल जैसे स्वस्थ वसा शामिल करने से हृदय और मस्तिष्क का स्वास्थ्य बेहतर होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "deep_sleep",
+      "keywords": ["deep sleep", "good sleep", "गहरी नींद", "अच्छी नींद"],
+      "en": "Practicing relaxation before bed promotes deep sleep and rejuvenation.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "सोने से पहले विश्राम का अभ्यास गहरी नींद और पुनरुज्जीवन को बढ़ावा देता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "hydrating_drinks",
+      "keywords": ["hydrating drinks", "water intake", "हाइड्रेटिंग ड्रिंक", "पानी पीना"],
+      "en": "Consuming hydrating drinks like coconut water and herbal teas maintains fluid balance.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "नारियल पानी और हर्बल चाय जैसी हाइड्रेटिंग ड्रिंक लेने से तरल संतुलन बना रहता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "mindful_pause",
+      "keywords": ["mindful pause", "mental break", "माइंडफुल पॉज़", "मानसिक विराम"],
+      "en": "Taking a mindful pause during the day helps reset focus and reduce stress.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "दिन के दौरान माइंडफुल पॉज़ लेने से ध्यान रीसेट होता है और तनाव कम होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "clean_environment",
+      "keywords": ["clean environment", "tidy workspace", "साफ वातावरण", "साफ कार्यस्थल"],
+      "en": "Keeping your environment clean reduces exposure to germs and improves mental clarity.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "अपने वातावरण को साफ रखना रोगाणुओं से बचाता है और मानसिक स्पष्टता बढ़ाता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "morning_sunlight",
+      "keywords": ["morning sunlight", "sun exposure", "सुबह की धूप", "सूर्य के संपर्क में आना"],
+      "en": "Exposing yourself to morning sunlight boosts vitamin D levels and improves mood.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "सुबह की धूप में समय बिताने से विटामिन D का स्तर बढ़ता है और मूड बेहतर होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "avoid_processed_food",
+      "keywords": ["avoid processed food", "healthy diet", "प्रोसेस्ड फूड कम करें", "स्वस्थ भोजन"],
+      "en": "Reducing processed food intake promotes natural nutrition and reduces health risks.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "प्रोसेस्ड फूड का सेवन कम करने से प्राकृतिक पोषण मिलता है और स्वास्थ्य जोखिम कम होते हैं।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "mindful_walking",
+      "keywords": ["mindful walking", "walking meditation", "माइंडफुल वॉक", "ध्यानपूर्वक चलना"],
+      "en": "Practicing mindful walking increases awareness and relieves stress.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "माइंडफुल वॉक करने से जागरूकता बढ़ती है और तनाव कम होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "strengthen_core",
+      "keywords": ["strengthen core", "core exercises", "कोर मांसपेशियों को मजबूत करना", "कोर व्यायाम"],
+      "en": "Exercises that strengthen your core improve posture and prevent back pain.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "कोर मांसपेशियों को मजबूत करने वाले व्यायाम मुद्रा सुधारते हैं और पीठ दर्द रोकते हैं।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "sleep_routine",
+      "keywords": ["sleep routine", "consistent sleep", "नींद की दिनचर्या", "स्थिर नींद"],
+      "en": "Maintaining a consistent sleep routine improves sleep quality and energy levels.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "स्थिर नींद की दिनचर्या बनाए रखने से नींद की गुणवत्ता और ऊर्जा स्तर बेहतर होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "mental_relaxation",
+      "keywords": ["mental relaxation", "stress relief exercises", "मानसिक विश्राम", "तनाव कम करने के व्यायाम"],
+      "en": "Engaging in mental relaxation exercises reduces anxiety and increases focus.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "मानसिक विश्राम के व्यायाम करने से चिंता कम होती है और ध्यान बढ़ता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "fiber_vegetables",
+      "keywords": ["fiber-rich vegetables", "high fiber foods", "फाइबर से भरपूर सब्ज़ियाँ", "उच्च फाइबर वाले खाद्य पदार्थ"],
+      "en": "Eating fiber-rich vegetables improves digestion and lowers cholesterol.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "फाइबर से भरपूर सब्ज़ियाँ खाने से पाचन बेहतर होता है और कोलेस्ट्रॉल कम होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "regular_exercise",
+      "keywords": ["regular exercise", "physical activity", "नियमित व्यायाम", "शारीरिक गतिविधि"],
+      "en": "Engaging in regular exercise strengthens the heart, muscles, and overall health.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "नियमित व्यायाम करने से हृदय, मांसपेशियों और समग्र स्वास्थ्य मजबूत होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "healthy_snacks_choice",
+      "keywords": ["healthy snacks", "fruits and nuts", "स्वस्थ स्नैक्स", "फल और नट्स"],
+      "en": "Choosing healthy snacks like fruits and nuts helps control cravings and energy levels.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "फल और नट्स जैसे स्वस्थ स्नैक्स चुनने से cravings नियंत्रित होती हैं और ऊर्जा स्तर बना रहता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "mindful_breathing",
+      "keywords": ["mindful breathing", "breathing exercises", "माइंडफुल ब्रेथिंग", "सांस लेने के व्यायाम"],
+      "en": "Practicing mindful breathing calms the mind and reduces stress.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "माइंडफुल ब्रेथिंग का अभ्यास करने से मन शांत होता है और तनाव कम होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "relaxing_activities",
+      "keywords": ["relaxing activities", "stress relief activities", "विश्रामकारी गतिविधियाँ", "तनाव कम करने की गतिविधियाँ"],
+      "en": "Engaging in relaxing activities like reading or music reduces stress.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "पढ़ाई या संगीत जैसी विश्रामकारी गतिविधियों में भाग लेने से तनाव कम होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "sun_exposure",
+      "keywords": ["sunlight", "vitamin D", "sun exposure", "सूरज की रोशनी", "विटामिन D", "धूप"],
+      "en": "Moderate sun exposure improves vitamin D production and bone health.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "मध्यम धूप में समय बिताने से विटामिन D उत्पादन और हड्डियों का स्वास्थ्य बेहतर होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "strength_flexibility",
+      "keywords": ["strength exercises", "flexibility exercises", "stretching", "मजबूती", "लचीलापन", "व्यायाम"],
+      "en": "Incorporating strength and flexibility exercises reduces injury risk.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "स्ट्रेंथ और फ्लेक्सिबिलिटी व्यायाम करने से चोट का खतरा कम होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "balanced_meals",
+      "keywords": ["balanced diet", "nutrition", "healthy meals", "संतुलित आहार", "पोषण", "स्वस्थ भोजन"],
+      "en": "Eating balanced meals throughout the day maintains energy and nutrient levels.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "दिनभर संतुलित भोजन लेने से ऊर्जा और पोषण स्तर बनाए रहते हैं।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "positive_thinking",
+      "keywords": ["positive thinking", "mindset", "optimism", "सकारात्मक सोच", "मनोवृत्ति", "आशावाद"],
+      "en": "Practicing positive thinking improves mental health and resilience.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "सकारात्मक सोच का अभ्यास करने से मानसिक स्वास्थ्य और लचीलापन बढ़ता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "deep_relaxation",
+      "keywords": ["relaxation", "stress relief", "deep relaxation", "विश्राम", "तनाव मुक्ति", "गहरी विश्राम"],
+      "en": "Engaging in deep relaxation techniques before sleep improves rest quality.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "नींद से पहले गहरी विश्राम तकनीकों में भाग लेने से आराम की गुणवत्ता बढ़ती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "reduce_caffeine",
+      "keywords": ["caffeine", "coffee", "energy drinks", "कैफीन", "कॉफ़ी", "ऊर्जा पेय"],
+      "en": "Limiting caffeine intake helps regulate sleep and reduce anxiety.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "कैफीन का सेवन कम करने से नींद नियमित रहती है और चिंता कम होती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "healthy_gut",
+      "keywords": ["gut health", "probiotics", "digestion", "आंत स्वास्थ्य", "प्रोबायोटिक्स", "पाचन"],
+      "en": "Eating probiotics like yogurt and fermented foods supports gut health.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "दही और किण्वित खाद्य पदार्थ खाने से आंतों का स्वास्थ्य बेहतर होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "mental_pauses",
+      "keywords": ["mental breaks", "relaxation", "stress relief", "मानसिक विराम", "विश्राम", "तनाव मुक्ति"],
+      "en": "Taking short mental pauses during the day reduces stress and improves focus.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "दिन के दौरान छोटे मानसिक विराम लेने से तनाव कम होता है और ध्यान बढ़ता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "limit_alcohol",
+      "keywords": ["alcohol", "drinking", "moderation", "शराब", "मदिरा", "मितव्ययिता"],
+      "en": "Limiting alcohol consumption protects liver and overall health.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "शराब का सेवन कम करने से यकृत और समग्र स्वास्थ्य सुरक्षित रहता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "healthy_morning",
+      "keywords": ["breakfast", "morning routine", "energy", "स्वस्थ नाश्ता", "सुबह की दिनचर्या", "ऊर्जा"],
+      "en": "Starting the day with a healthy breakfast boosts energy and metabolism.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "दिन की शुरुआत स्वस्थ नाश्ते से करने से ऊर्जा और मेटाबॉलिज़्म बढ़ता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "relaxing_evening",
+      "keywords": ["relaxation", "evening routine", "stress relief", "विश्राम", "शाम की दिनचर्या", "तनाव मुक्ति"],
+      "en": "Spending quiet time in the evening relaxes the mind and body.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "शाम में शांत समय बिताने से मन और शरीर को आराम मिलता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "clean_diet",
+      "keywords": ["clean diet", "nutrition", "healthy eating", "स्वच्छ आहार", "पोषण", "स्वस्थ भोजन"],
+      "en": "Eating a clean diet with minimal processed foods improves digestion and energy.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "कम प्रोसेस्ड फूड के साथ स्वच्छ आहार लेने से पाचन और ऊर्जा में सुधार होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "daily_exercise",
+      "keywords": ["exercise", "physical activity", "fitness", "व्यायाम", "शारीरिक गतिविधि", "फिटनेस"],
+      "en": "Incorporating daily exercise enhances fitness and reduces disease risk.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "रोज़ाना व्यायाम करने से फिटनेस बढ़ती है और रोगों का खतरा कम होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "nature_time",
+      "keywords": ["nature", "outdoors", "fresh air", "प्रकृति", "बाहर", "ताजी हवा"],
+      "en": "Spending time in nature boosts mood and reduces mental fatigue.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "प्रकृति में समय बिताने से मूड बेहतर होता है और मानसिक थकान कम होती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "relaxing_hobbies",
+      "keywords": ["hobbies", "relaxation", "stress relief", "हॉबीज़", "विश्राम", "तनाव मुक्ति"],
+      "en": "Engaging in relaxing hobbies like painting or gardening reduces stress.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "पेंटिंग या बागवानी जैसी विश्रामकारी हॉबीज़ करने से तनाव कम होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "balanced_lifestyle",
+      "keywords": ["balanced lifestyle", "diet", "exercise", "sleep", "संतुलित जीवनशैली", "आहार", "व्यायाम", "नींद"],
+      "en": "Maintaining a balanced lifestyle with diet, exercise, and sleep supports overall wellness.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "आहार, व्यायाम और नींद के साथ संतुलित जीवनशैली बनाए रखने से समग्र स्वास्थ्य में सुधार होता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "posture",
+      "keywords": ["posture", "sitting posture", "standing posture", "मुद्रा", "बैठने की मुद्रा", "खड़े होने की मुद्रा"],
+      "en": "Maintaining proper posture may reduce back pain, improve breathing, and enhance confidence.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "सही मुद्रा बनाए रखना पीठ के दर्द को कम कर सकता है, सांस लेने में सुधार कर सकता है और आत्मविश्वास बढ़ा सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "screen_time",
+      "keywords": ["screen time", "digital screen", "device usage", "स्क्रीन टाइम", "डिजिटल स्क्रीन", "डिवाइस उपयोग"],
+      "en": "Limiting screen time may reduce eye strain, improve sleep quality, and enhance productivity.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "स्क्रीन टाइम को सीमित करना आंखों पर तनाव कम कर सकता है, नींद की गुणवत्ता में सुधार कर सकता है और उत्पादकता बढ़ा सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "social_connections",
+      "keywords": ["social connections", "relationships", "social health", "सामाजिक संबंध", "रिश्ते", "सामाजिक स्वास्थ्य"],
+      "en": "Maintaining healthy social connections may improve emotional well-being and reduce loneliness.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "सकारात्मक सामाजिक संबंध बनाए रखना भावनात्मक स्वास्थ्य में सुधार और अकेलापन कम कर सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "gratitude_practice",
+      "keywords": ["gratitude", "thankfulness", "mindset", "कृतज्ञता", "आभार", "मनस्थिति"],
+      "en": "Practicing gratitude daily may increase happiness, reduce stress, and enhance perspective.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "प्रतिदिन कृतज्ञता का अभ्यास करना खुशी बढ़ा सकता है, तनाव कम कर सकता है और दृष्टिकोण को बेहतर बना सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "reducing_sugar",
+      "keywords": ["reducing sugar", "sugar intake", "healthy diet", "शुगर कम करना", "चीनी सेवन", "स्वस्थ आहार"],
+      "en": "Reducing added sugar intake may help maintain healthy weight, improve energy, and protect teeth.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "शुगर का सेवन कम करना स्वस्थ वजन बनाए रखने, ऊर्जा बढ़ाने और दांतों की रक्षा करने में मदद कर सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "mediterranean_diet",
+      "keywords": ["Mediterranean diet", "heart health", "nutrition", "मेडिटेरेनियन डाइट", "हृदय स्वास्थ्य", "पोषण"],
+      "en": "Following a Mediterranean diet may support heart health, improve digestion, and reduce inflammation.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "मेडिटेरेनियन डाइट का पालन करना हृदय स्वास्थ्य में सुधार, पाचन में मदद और सूजन कम करने में मदद कर सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "probiotics",
+      "keywords": ["probiotics", "gut health", "yogurt", "प्रोबायोटिक्स", "आंत स्वास्थ्य", "दही"],
+      "en": "Consuming probiotics may support gut health, improve immunity, and aid digestion.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "प्रोबायोटिक्स का सेवन आंत के स्वास्थ्य का समर्थन कर सकता है, प्रतिरक्षा में सुधार कर सकता है और पाचन में मदद कर सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "mindful_eating",
+      "keywords": ["mindful eating", "healthy eating", "conscious eating", "सचेत भोजन", "स्वस्थ भोजन", "सावधानीपूर्वक भोजन"],
+      "en": "Practicing mindful eating may improve digestion, prevent overeating, and increase satisfaction from meals.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "सचेत भोजन करना पाचन में सुधार कर सकता है, अधिक खाने से रोक सकता है और भोजन से संतुष्टि बढ़ा सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "smoking_cessation",
+      "keywords": ["smoking cessation", "quit smoking", "धूम्रपान छोड़ना"],
+      "en": "Quitting smoking may improve lung function, reduce cancer risk, and enhance overall health.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "धूम्रपान छोड़ना फेफड़ों के कार्य में सुधार, कैंसर के जोखिम को कम करने और सामान्य स्वास्थ्य में सुधार कर सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "stress_management",
+      "keywords": ["stress management", "stress relief", "तनाव प्रबंधन", "तनाव मुक्ति"],
+      "en": "Managing stress through techniques like yoga, meditation, or hobbies may improve mental and physical health.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "योग, ध्यान या शौक जैसी तकनीकों से तनाव प्रबंधन मानसिक और शारीरिक स्वास्थ्य में सुधार कर सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "nature_exposure",
+      "keywords": ["nature exposure", "outdoors", "प्रकृति में समय", "बाहर समय बिताना"],
+      "en": "Spending time in nature may boost mood, reduce stress, and improve focus.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "प्रकृति में समय बिताना मूड बढ़ा सकता है, तनाव कम कर सकता है और ध्यान सुधार सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "positive_affirmations",
+      "keywords": ["positive affirmations", "self-talk", "सकारात्मक पुष्टि", "आत्म-संवाद"],
+      "en": "Repeating positive affirmations daily may increase confidence, reduce negative thoughts, and improve outlook.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "प्रतिदिन सकारात्मक पुष्टि दोहराना आत्मविश्वास बढ़ा सकता है, नकारात्मक विचार कम कर सकता है और दृष्टिकोण में सुधार कर सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "yoga",
+      "keywords": ["yoga", "yoga practice", "योग", "योग अभ्यास"],
+      "en": "Practicing yoga regularly may improve flexibility, reduce stress, and enhance overall wellness.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "नियमित रूप से योग करना लचीलापन बढ़ा सकता है, तनाव कम कर सकता है और सामान्य स्वास्थ्य में सुधार कर सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "pilates",
+      "keywords": ["pilates", "core exercises", "पिलाटीस", "कोर व्यायाम"],
+      "en": "Engaging in Pilates may strengthen core muscles, improve posture, and enhance flexibility.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "पिलाटीस में भाग लेने से कोर मांसपेशियां मजबूत हो सकती हैं, मुद्रा में सुधार हो सकता है और लचीलापन बढ़ सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "cycling",
+      "keywords": ["cycling", "biking", "साइक्लिंग", "साइकिल चलाना"],
+      "en": "Cycling regularly may improve cardiovascular health, build leg strength, and reduce stress.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "नियमित साइक्लिंग हृदय स्वास्थ्य सुधार सकती है, पैर की ताकत बढ़ा सकती है और तनाव कम कर सकती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "walking",
+      "keywords": ["walking", "daily walk", "चलना", "प्रतिदिन चलना"],
+      "en": "Walking daily may support weight management, improve mood, and enhance overall fitness.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "प्रतिदिन चलना वजन प्रबंधन में मदद कर सकता है, मूड सुधार सकता है और सामान्य फिटनेस बढ़ा सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "swimming",
+      "keywords": ["swimming", "water exercises", "तैराकी", "जल व्यायाम"],
+      "en": "Swimming may improve cardiovascular fitness, increase strength, and reduce joint stress.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "तैराकी हृदय स्वास्थ्य में सुधार कर सकती है, ताकत बढ़ा सकती है और जोड़ो पर तनाव कम कर सकती है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "mind_body_exercises",
+      "keywords": ["mind-body exercises", "qigong", "balance exercises", "माइंड-बॉडी अभ्यास", "किगॉन्ग", "संतुलन व्यायाम"],
+      "en": "Practicing mind-body exercises like Qigong may enhance balance, flexibility, and mental focus.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "किगॉन्ग जैसे माइंड-बॉडी अभ्यास करना संतुलन, लचीलापन और मानसिक ध्यान बढ़ा सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "hobby_engagement",
+      "keywords": ["hobbies", "creative activities", "शौक", "रचनात्मक गतिविधियां"],
+      "en": "Engaging in hobbies may reduce stress, boost creativity, and improve overall happiness.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "शौक में भाग लेना तनाव कम कर सकता है, रचनात्मकता बढ़ा सकता है और सामान्य खुशी में सुधार कर सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "music_therapy",
+      "keywords": ["music therapy", "listening to music", "संगीत चिकित्सा", "संगीत सुनना"],
+      "en": "Listening to or playing music may reduce anxiety, elevate mood, and enhance relaxation.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "संगीत सुनना या बजाना चिंता कम कर सकता है, मूड बढ़ा सकता है और विश्राम बढ़ा सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "laughter",
+      "keywords": ["laughter", "humor", "हँसी", "हास्य"],
+      "en": "Laughing daily may improve mood, reduce stress, and strengthen social bonds.\n\nPlease note: These tips are for general wellness purposes and are not a substitute for professional medical advice.",
+      "hi": "प्रतिदिन हँसना मूड में सुधार कर सकता है, तनाव कम कर सकता है और सामाजिक संबंध मजबूत कर सकता है।\n\nकृपया ध्यान दें: ये सुझाव सामान्य स्वास्थ्य के लिए हैं और पेशेवर चिकित्सा सलाह का विकल्प नहीं हैं।"
+    },
+    {
+      "id": "general",
+      "answers": [
+        {
+          "en": "Drinking enough water throughout the day may keep your body hydrated and support overall health.",
+          "hi": "दिनभर पर्याप्त पानी पीने से शरीर हाइड्रेटेड रहता है और संपूर्ण स्वास्थ्य को समर्थन मिलता है।"
+        },
+        {
+          "en": "Eating a balanced diet rich in fruits and vegetables may improve immunity and energy levels.",
+          "hi": "फल और सब्जियों से भरपूर संतुलित आहार खाने से प्रतिरक्षा और ऊर्जा स्तर बढ़ सकते हैं।"
+        },
+        {
+          "en": "Practicing deep breathing exercises may reduce stress and promote relaxation.",
+          "hi": "गहरी साँस लेने के अभ्यास से तनाव कम हो सकता है और विश्राम बढ़ सकता है।"
+        },
+        {
+          "en": "Taking short walks during breaks may boost circulation and mental focus.",
+          "hi": "ब्रेक के दौरान छोटी सैर करने से रक्त संचार और मानसिक ध्यान बढ़ सकता है।"
+        },
+        {
+          "en": "Maintaining good posture while sitting may prevent back and neck pain.",
+          "hi": "बैठने के दौरान सही मुद्रा बनाए रखने से पीठ और गर्दन का दर्द रोक सकता है।"
+        },
+        {
+          "en": "Getting 7–8 hours of sleep each night may improve mood, focus, and overall health.",
+          "hi": "रात में 7–8 घंटे की नींद लेने से मूड, ध्यान और समग्र स्वास्थ्य में सुधार हो सकता है।"
+        },
+        {
+          "en": "Limiting screen time before bed may improve sleep quality.",
+          "hi": "सोने से पहले स्क्रीन समय सीमित करने से नींद की गुणवत्ता में सुधार हो सकता है।"
+        },
+        {
+          "en": "Spending time in natural sunlight may boost vitamin D levels and improve mood.",
+          "hi": "प्राकृतिक धूप में समय बिताने से विटामिन डी स्तर बढ़ता है और मूड में सुधार होता है।"
+        },
+        {
+          "en": "Incorporating stretching exercises into your daily routine may improve flexibility and reduce muscle tension.",
+          "hi": "रोजमर्रा की दिनचर्या में स्ट्रेचिंग अभ्यास शामिल करने से लचीलापन बढ़ता है और मांसपेशियों का तनाव कम होता है।"
+        },
+        {
+          "en": "Practicing gratitude by noting daily positives may enhance mental well-being.",
+          "hi": "रोज़ाना सकारात्मक बातों को नोट करके आभार प्रकट करने से मानसिक स्वास्थ्य में सुधार हो सकता है।"
+        },
+        {
+          "en": "Engaging in regular physical activity may maintain healthy weight and boost energy.",
+          "hi": "नियमित शारीरिक गतिविधियों में भाग लेने से स्वस्थ वजन बनाए रहता है और ऊर्जा बढ़ती है।"
+        },
+        {
+          "en": "Reducing processed sugar intake may improve energy levels and prevent health issues.",
+          "hi": "प्रोसेस्ड शुगर का सेवन कम करने से ऊर्जा बढ़ सकती है और स्वास्थ्य समस्याओं से बचा जा सकता है।"
+        },
+        {
+          "en": "Practicing mindfulness meditation may enhance focus and reduce anxiety.",
+          "hi": "माइंडफुलनेस मेडिटेशन का अभ्यास ध्यान बढ़ा सकता है और चिंता कम कर सकता है।"
+        },
+        {
+          "en": "Spending time with friends and family may improve emotional well-being.",
+          "hi": "दोस्तों और परिवार के साथ समय बिताने से भावनात्मक स्वास्थ्य में सुधार हो सकता है।"
+        },
+        {
+          "en": "Keeping a regular daily schedule may improve sleep patterns and reduce stress.",
+          "hi": "नियमित दिनचर्या बनाए रखने से नींद का पैटर्न बेहतर होता है और तनाव कम होता है।"
+        },
+        {
+          "en": "Limiting caffeine intake in the evening may promote better sleep.",
+          "hi": "शाम के समय कैफीन का सेवन सीमित करने से नींद बेहतर होती है।"
+        },
+        {
+          "en": "Listening to relaxing music may reduce stress and improve mood.",
+          "hi": "आरामदायक संगीत सुनने से तनाव कम हो सकता है और मूड में सुधार हो सकता है।"
+        },
+        {
+          "en": "Taking short digital detox periods may enhance mental clarity and reduce eye strain.",
+          "hi": "छोटे डिजिटल डिटॉक्स पीरियड लेने से मानसिक स्पष्टता बढ़ती है और आंखों पर तनाव कम होता है।"
+        },
+        {
+          "en": "Including more fiber in your diet may improve digestion and prevent constipation.",
+          "hi": "आहार में फाइबर शामिल करने से पाचन बेहतर होता है और कब्ज़ से बचाव होता है।"
+        },
+        {
+          "en": "Practicing safe sun exposure may improve skin health and vitamin D levels.",
+          "hi": "सुरक्षित धूप का अभ्यास त्वचा के स्वास्थ्य और विटामिन डी स्तर को सुधार सकता है।"
+        },
+        {
+          "en": "Taking regular breaks from sitting may reduce fatigue and improve circulation.",
+          "hi": "बैठने से नियमित विराम लेने से थकान कम होती है और रक्त संचार बढ़ता है।"
+        },
+        {
+          "en": "Spending time on hobbies may improve creativity and emotional wellness.",
+          "hi": "शौक पर समय बिताने से रचनात्मकता और भावनात्मक स्वास्थ्य में सुधार होता है।"
+        },
+        {
+          "en": "Practicing good dental hygiene may prevent gum disease and maintain oral health.",
+          "hi": "अच्छी दंत स्वच्छता का अभ्यास करने से मसूड़ों की बीमारी से बचाव होता है और मौखिक स्वास्थ्य बनाए रहता है।"
+        },
+        {
+          "en": "Engaging in social volunteering may enhance purpose and overall happiness.",
+          "hi": "सामाजिक स्वयंसेवा में भाग लेने से उद्देश्य की भावना और समग्र खुशी बढ़ती है।"
+        },
+        {
+          "en": "Maintaining a clean and organized living space may reduce stress and improve focus.",
+          "hi": "साफ और व्यवस्थित रहने की जगह बनाए रखने से तनाव कम होता है और ध्यान बढ़ता है।"
+        },
+        {
+          "en": "Practicing yoga regularly may improve flexibility, balance, and mental calmness.",
+          "hi": "नियमित योग अभ्यास से लचीलापन, संतुलन और मानसिक शांति बढ़ती है।"
+        },
+        {
+          "en": "Avoiding excessive alcohol consumption may prevent health issues and improve energy levels.",
+          "hi": "अत्यधिक शराब से बचने से स्वास्थ्य समस्याओं से बचाव होता है और ऊर्जा स्तर बढ़ता है।"
+        },
+        {
+          "en": "Spending time in nature may improve mood, reduce stress, and boost mental clarity.",
+          "hi": "प्रकृति में समय बिताने से मूड बेहतर होता है, तनाव कम होता है और मानसिक स्पष्टता बढ़ती है।"
+        },
+        {
+          "en": "Using proper ergonomics while working may prevent musculoskeletal pain.",
+          "hi": "काम करते समय सही एर्गोनॉमिक्स का उपयोग करने से मांसपेशियों और हड्डियों का दर्द रोक सकता है।"
+        }
+      ]
+    }
+  ]
+}
+

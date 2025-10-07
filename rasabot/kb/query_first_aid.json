@@ -1,0 +1,473 @@
+{
+  "intent": "query_first_aid",
+  "entries": [
+    {
+      "id": "cuts",
+      "keywords": ["cut", "bleeding cut", "open wound", "minor injury", "skin cut", "घाव", "काटना", "चोट", "खून बहना", "त्वचा कटना"],
+      "en": "For a cut, wash the wound gently with clean running water, apply gentle pressure to stop bleeding, and cover with a sterile bandage. Monitor for signs of infection.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "घाव को साफ बहते पानी से धीरे से धोएँ, रक्तस्राव रोकने के लिए हल्का दबाव डालें और स्टेराइल पट्टी से ढकें। संक्रमण के लक्षणों पर नजर रखें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "abrasions",
+      "keywords": ["abrasion", "scrape", "grazed skin", "minor wound", "skin scratch", "खरोंच", "छिलना", "त्वचा घिसना", "हल्की चोट", "छोटी खरोंच"],
+      "en": "For an abrasion, gently clean the scraped area with clean water, apply antiseptic if available, and cover with a clean bandage. Change the dressing daily.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "खरोंच वाली जगह को साफ पानी से धीरे से धोएँ, यदि उपलब्ध हो तो एंटीसेप्टिक लगाएँ और साफ पट्टी से ढकें। ड्रेसिंग रोज़ बदलें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "splinter",
+      "keywords": ["splinter", "thorn stuck", "tiny wood piece", "skin splinter", "embedded splinter", "कांटा", "छड़ी", "त्वचा में कांटा", "छोटा टुकड़ा", "अटक गया कांटा"],
+      "en": "For a splinter, wash your hands and the area, carefully remove it with sterilized tweezers if visible, wash again, and cover with a clean bandage.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "कांटा या छड़ी लगने पर हाथ और क्षेत्र को साफ करें, यदि दिखाई दे तो स्टरलाइज्ड पिन्सर से निकालें, फिर से धोएँ और साफ पट्टी लगाएँ।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "sprain",
+      "keywords": ["sprain", "ankle sprain", "joint twist", "ligament injury", "swollen ankle", "मोड़ आना", "पैर में मोच", "जोड़ में चोट", "लिगामेंट चोट", "सुजन वाली मोच"],
+      "en": "For a sprain, rest the affected area, apply ice for 15–20 minutes every few hours, compress with an elastic bandage, and keep the limb elevated if possible.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "मोच आने पर प्रभावित हिस्से को आराम दें, हर कुछ घंटे में 15–20 मिनट तक बर्फ लगाएँ, इलास्टिक बैंडेज से बांधें और यदि संभव हो तो अंग को ऊँचा रखें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "strain",
+      "keywords": ["strain", "muscle pull", "muscle injury", "overstretch muscle", "muscle pain", "मांसपेशी खिंचना", "मांसपेशी चोट", "मांसपेशी दर्द", "पेशी खिंचाव", "अधिक खिंचाव"],
+      "en": "For a muscle strain, rest the affected muscle, apply ice to reduce swelling, and use compression and elevation if possible. Avoid using the injured muscle until recovery.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "मांसपेशी खिंचने पर प्रभावित हिस्से को आराम दें, सूजन कम करने के लिए बर्फ लगाएँ और यदि संभव हो तो संपीड़न व ऊँचाई का उपयोग करें। मांसपेशी पूरी तरह ठीक होने तक इसका उपयोग न करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "choking",
+      "keywords": ["choking", "airway blocked", "food stuck", "unable to breathe", "airway emergency", "गला घुटना", "दम घुटना", "सांस रुकना", "खाना अटकना", "गला बंद होना"],
+      "en": "For choking, encourage the person to cough. If the airway remains blocked, give firm back blows and abdominal thrusts if trained. Call emergency services immediately.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "गला घुटने पर व्यक्ति को खाँसने के लिए प्रेरित करें। यदि वायुमार्ग बंद रहे तो प्रशिक्षित होने पर पीठ पर प्रहार और पेट की थ्रस्ट दें। तुरंत आपातकालीन सेवाएँ बुलाएँ।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "drowning",
+      "keywords": ["drowning", "water accident", "near drowning", "submersion", "breathing stopped", "डूबना", "पानी में गिरना", "साँस रुकना", "लगभग डूबना", "जल दुर्घटना"],
+      "en": "For drowning, remove the person from water safely, check responsiveness, and if not breathing, start CPR immediately. Call emergency services without delay.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "डूबने की स्थिति में व्यक्ति को सुरक्षित रूप से पानी से बाहर निकालें, प्रतिक्रिया की जाँच करें और यदि साँस नहीं ले रहा है तो तुरंत CPR शुरू करें। आपातकालीन सेवाएँ तुरंत बुलाएँ।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "fracture",
+      "keywords": ["fracture", "broken bone", "bone crack", "injured bone", "bone break", "हड्डी टूटना", "फ्रैक्चर", "हड्डी में दरार", "हड्डी की चोट", "हड्डी खिसकना"],
+      "en": "For a suspected fracture, immobilize the injured area, avoid unnecessary movement, apply ice to reduce swelling, and seek immediate medical attention. Use a splint only if trained.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "हड्डी टूटने की स्थिति में प्रभावित हिस्से को स्थिर रखें, अनावश्यक हिलाएँ नहीं, सूजन कम करने के लिए बर्फ लगाएँ और तुरंत चिकित्सकीय सहायता प्राप्त करें। स्प्लिंट केवल प्रशिक्षित व्यक्ति ही लगाए।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "burn",
+      "keywords": ["burn", "skin burn", "fire injury", "scald", "minor burn", "जलना", "त्वचा जलना", "आग से चोट", "गर्म पानी से जलना", "हल्का जलना"],
+      "en": "For a minor burn, cool the affected area under clean running water for 10–20 minutes, cover with a sterile non-stick bandage, and avoid applying ice or home remedies like toothpaste.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "हल्की जलन में प्रभावित हिस्से को साफ बहते पानी के नीचे 10–20 मिनट तक ठंडा करें, स्टेराइल नॉन-स्टिक पट्टी से ढकें और बर्फ या घरेलू उपाय जैसे टूथपेस्ट न लगाएँ।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "nosebleed",
+      "keywords": ["nosebleed", "bleeding nose", "epistaxis", "nasal bleeding", "blood from nose", "नाक से खून", "नाक से बहना", "नाक से खून गिरना", "एपिस्टेक्सिस", "नाक से रक्तस्राव"],
+      "en": "For a nosebleed, sit upright, lean forward slightly, and pinch the soft part of the nose for 10–15 minutes. Apply a cold compress to the nose or cheeks. Avoid tilting the head back.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "नाक से खून आने पर सीधे बैठें, थोड़ा आगे की ओर झुकें और नाक के नरम हिस्से को 10–15 मिनट तक दबाएँ। नाक या गाल पर ठंडी सेक लगाएँ। सिर को पीछे न झुकाएँ।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "eye_injury",
+      "keywords": ["eye injury", "eye trauma", "hurt eye", "eye accident", "eye wound", "आंख की चोट", "नेत्र चोट", "आंख घायल", "नेत्र आघात", "आंख पर चोट"],
+      "en": "For an eye injury, do not rub the eye, rinse gently with clean water if needed, and cover with sterile gauze. Seek immediate medical attention if the injury is serious or vision is affected.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "आंख की चोट में आंख को न रगड़ें, आवश्यकता पड़ने पर साफ पानी से धीरे से धोएँ और स्टेराइल गॉज़ से ढकें। यदि चोट गंभीर हो या दृष्टि प्रभावित हो तो तुरंत चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "fainting",
+      "keywords": ["fainting", "unconscious", "passed out", "loss of consciousness", "faint episode", "बेहोशी", "चक्कर आना", "अचानक गिरना", "होश खोना", "मूर्छा"],
+      "en": "For fainting, lay the person on their back, elevate their legs, ensure fresh air, and loosen tight clothing. Monitor breathing and pulse. Seek medical help if recovery is delayed.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "बेहोश होने पर व्यक्ति को पीठ के बल लिटाएँ, पैरों को ऊँचा करें, ताजी हवा सुनिश्चित करें और तंग कपड़े ढीले करें। श्वास और नाड़ी पर नजर रखें। यदि जल्दी सुधार न हो तो चिकित्सकीय सहायता लें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "heat_exhaustion",
+      "keywords": ["heat exhaustion", "overheating", "heat fatigue", "hot weather illness", "heat stress", "हीट एग्जॉशन", "गर्मी से थकान", "धूप से थकान", "गर्मी की बीमारी", "गर्मी से कमजोरी"],
+      "en": "For heat exhaustion, move the person to a cool place, encourage rest, provide fluids if conscious, remove excess clothing, and cool the body with damp cloths or a fan.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "हीट एग्जॉशन में व्यक्ति को ठंडी जगह ले जाएँ, आराम करने दें, यदि होश में हों तो तरल पदार्थ दें, अतिरिक्त कपड़े हटाएँ और गीले कपड़े या पंखे से शरीर ठंडा करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "heat_stroke",
+      "keywords": ["heat stroke", "sun stroke", "severe overheating", "heat emergency", "hot weather stroke", "हीट स्ट्रोक", "लू लगना", "गंभीर गर्मी", "धूप की मार", "गर्मी का झटका"],
+      "en": "For heat stroke, call emergency services immediately, move the person to shade or a cool place, and cool the body rapidly with water or ice packs while monitoring breathing.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "हीट स्ट्रोक में तुरंत आपातकालीन सेवाओं को बुलाएँ, व्यक्ति को छाँव या ठंडी जगह पर ले जाएँ और पानी या आइस पैक से तेजी से ठंडा करें। श्वास पर नजर रखें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "frostbite",
+      "keywords": ["frostbite", "cold injury", "frozen skin", "extreme cold damage", "frost injury", "शीतदंश", "ठंड से चोट", "जमा हुआ घाव", "सर्दी से क्षति", "ठंड से सूजन"],
+      "en": "Move to a warm place immediately. Remove wet clothing and warm the affected area gradually using body heat or warm (not hot) water. Do not rub. Seek medical help if severe.",
+      "hi": "तुरंत गर्म जगह पर जाएँ। गीले कपड़े हटाएँ और प्रभावित हिस्से को धीरे-धीरे शरीर की गर्मी या गुनगुने (गरम नहीं) पानी से गर्म करें। रगड़ें नहीं। गंभीर होने पर चिकित्सक से संपर्क करें।"
+    },
+    {
+      "id": "animal_bite",
+      "keywords": ["animal bite", "dog bite", "cat bite", "wild animal wound", "rabies risk", "जानवर का काटना", "कुत्ते का काटना", "बिल्ली का काटना", "पशु से घाव", "रेबीज खतरा"],
+      "en": "Wash the wound thoroughly with soap and water for at least 15 minutes. Apply antiseptic and cover with a clean bandage. Seek medical care immediately due to rabies risk.",
+      "hi": "घाव को कम से कम 15 मिनट तक साबुन और पानी से अच्छी तरह धोएँ। एंटीसेप्टिक लगाएँ और साफ पट्टी से ढकें। रेबीज़ के खतरे के कारण तुरंत चिकित्सकीय सहायता लें।"
+    },
+    {
+      "id": "snake_bite",
+      "keywords": ["snake bite", "venomous bite", "cobra bite", "viper bite", "poison bite", "साँप का काटना", "जहरीला काटना", "कोबरा का काटना", "सांप से चोट", "सर्पदंश"],
+      "en": "Stay calm and keep the bitten limb immobilized at or below heart level. Do not cut, suck, or apply a tourniquet. Cover bite loosely and seek emergency medical help immediately.",
+      "hi": "शांत रहें और काटे गए अंग को स्थिर रखें तथा दिल के स्तर से नीचे रखें। घाव को न काटें, न चूसें, न ही कसकर बांधें। घाव को ढीली पट्टी से ढकें और तुरंत चिकित्सकीय सहायता लें।"
+    },
+    {
+      "id": "dislocation",
+      "keywords": ["dislocation", "joint dislocation", "shoulder dislocation", "bone out", "joint injury", "हड्डी खिसकना", "जोड़ खिसकना", "कंधा खिसकना", "जोड़ की चोट", "हड्डी बाहर आना"],
+      "en": "Immobilize the joint in its current position. Do not attempt to push it back. Apply ice packs to reduce swelling and seek immediate medical attention.",
+      "hi": "जोड़ को उसकी वर्तमान स्थिति में स्थिर करें। इसे वापस धकेलने का प्रयास न करें। सूजन कम करने के लिए आइस पैक लगाएँ और तुरंत चिकित्सकीय सहायता लें।"
+    },
+    {
+      "id": "blisters",
+      "keywords": ["blister", "skin blister", "water blister", "fluid blister", "bubble skin", "छाला", "त्वचा पर छाला", "पानी का छाला", "फफोला", "छाले"],
+      "en": "Do not pop the blister. Cover with a clean, loose bandage. Keep the area clean and dry. If it breaks, wash gently and apply a sterile dressing.",
+      "hi": "छाले को न फोड़ें। इसे साफ, ढीली पट्टी से ढकें। क्षेत्र को साफ और सूखा रखें। यदि छाला फट जाए, तो धीरे से धोकर स्टेराइल ड्रेसिंग लगाएँ।"
+    },
+    {
+      "id": "severe_bleeding",
+      "keywords": ["severe bleeding", "heavy bleeding", "profuse bleeding", "major blood loss", "bleeding wound", "भारी रक्तस्राव", "अत्यधिक खून बहना", "गंभीर खून निकलना", "खून बहता घाव", "ज्यादा खून निकलना"],
+      "en": "Apply firm, direct pressure on the wound using a clean cloth or bandage. Elevate the injured part if possible. Call emergency services immediately.",
+      "hi": "साफ कपड़े या पट्टी का उपयोग करके घाव पर सीधे और मजबूती से दबाव डालें। यदि संभव हो तो चोटिल हिस्से को ऊँचा रखें। तुरंत आपातकालीन सेवाएँ बुलाएँ।"
+    },
+    {
+      "id": "electric_shock",
+      "keywords": ["electric shock", "electrocution", "electric injury", "shock from current", "electrical burn", "बिजली का झटका", "विद्युत आघात", "करंट लगना", "विद्युत चोट", "बिजली से जलना"],
+      "en": "Do not touch the person while electricity is still in contact. Turn off the power source first. Check breathing and pulse. Begin CPR if needed and call emergency services.",
+      "hi": "जब तक बिजली का संपर्क न हटे व्यक्ति को न छुएँ। पहले बिजली का स्रोत बंद करें। श्वास और नाड़ी जांचें। आवश्यकता पड़ने पर CPR शुरू करें और आपातकालीन सेवाएँ बुलाएँ।"
+    },
+    {
+      "id": "chemical_burn",
+      "keywords": ["chemical burn", "acid burn", "alkali burn", "toxic burn", "chemical injury", "रासायनिक जलन", "एसिड जलना", "क्षार से जलना", "रासायनिक चोट", "केमिकल बर्न"],
+      "en": "Rinse the affected area under running water for at least 20 minutes. Remove contaminated clothing carefully. Do not neutralize with other chemicals. Seek immediate medical attention.",
+      "hi": "प्रभावित हिस्से को कम से कम 20 मिनट तक बहते पानी से धोएँ। दूषित कपड़े सावधानी से हटाएँ। दूसरे रसायनों से तटस्थ करने की कोशिश न करें। तुरंत चिकित्सकीय सहायता लें।"
+    },
+    {
+      "id": "bee_sting",
+      "keywords": ["bee sting", "insect sting", "wasp sting", "bug bite", "sting swelling", "मधुमक्खी का डंक", "कीड़े का डंक", "भौंरे का डंक", "कीट काटना", "डंक से सूजन"],
+      "en": "Remove the stinger by scraping with a flat object, not by squeezing. Apply an ice pack to reduce swelling and monitor for allergic reactions.",
+      "hi": "सुई को दबाकर न निकालें, बल्कि किसी सपाट वस्तु से खुरचकर हटाएँ। सूजन कम करने के लिए आइस पैक लगाएँ और एलर्जी प्रतिक्रिया पर नजर रखें।"
+    },
+    {
+      "id": "tick_bite",
+      "keywords": ["tick bite", "insect bite", "parasite bite", "bug bite", "tick removal", "किलनी का काटना", "कीड़े का काटना", "परजीवी काटना", "टिक बाइट", "किलनी से चोट"],
+      "en": "Use fine-tipped tweezers to grasp the tick close to the skin and pull it straight out. Clean the area with soap and water, then apply antiseptic.",
+      "hi": "पतली चिमटी का उपयोग करके किलनी को त्वचा के पास से पकड़ें और सीधे बाहर खींचें। क्षेत्र को साबुन और पानी से साफ करें और एंटीसेप्टिक लगाएँ।"
+    },
+    {
+      "id": "nose_fracture_compound",
+      "keywords": ["nose fracture", "broken nose", "nose bone injury", "compound fracture nose", "nasal injury", "नाक की हड्डी टूटना", "नाक की चोट", "हड्डी बाहर आना", "नाक fracture", "नाक का घाव"],
+      "en": "Keep the person upright and do not attempt to push the bone back. Apply a cold compress to reduce swelling and seek emergency medical care immediately.",
+      "hi": "व्यक्ति को सीधा रखें और हड्डी को वापस धकेलने का प्रयास न करें। सूजन कम करने के लिए ठंडी सेक लगाएँ और तुरंत आपातकालीन चिकित्सकीय सहायता लें।"
+    },
+    {
+      "id": "ear_infection",
+      "keywords": ["ear infection", "ear pain", "ear swelling", "ear pus", "otitis", "कान में संक्रमण", "कान दर्द", "कान सूजना", "कान में मवाद", "कान का इंफेक्शन"],
+      "en": "Keep the ear dry and avoid inserting any objects. Apply a warm compress externally to ease pain. Seek medical attention if pain or discharge persists.",
+      "hi": "कान को सूखा रखें और उसमें कुछ भी न डालें। दर्द कम करने के लिए बाहरी गर्म सेक लगाएँ। यदि दर्द या मवाद जारी रहे तो चिकित्सक से संपर्क करें।"
+    },
+    {
+      "id": "toothache",
+      "keywords": ["toothache", "dental pain", "tooth pain", "tooth infection", "gum pain", "दाँत दर्द", "दंत पीड़ा", "मसूड़े में दर्द", "दाँत का इंफेक्शन", "दाँत में दर्द"],
+      "en": "Rinse the mouth with warm water. Apply a cold compress on the outside of the cheek. Take over-the-counter pain relief if needed and consult a dentist.",
+      "hi": "मुंह को गुनगुने पानी से कुल्ला करें। गाल के बाहर ठंडी पट्टी लगाएँ। आवश्यकता होने पर दर्द निवारक लें और दंत चिकित्सक से परामर्श करें।"
+    },
+    {
+      "id": "chest_pain_suspected_heart",
+      "keywords": ["chest pain", "heart attack", "angina pain", "cardiac emergency", "severe chest pressure", "सीने में दर्द", "दिल का दौरा", "हृदयाघात", "सीने में भारीपन", "हार्ट अटैक"],
+      "en": "Call emergency services immediately. Have the person sit or lie in a comfortable position. Loosen tight clothing and monitor breathing and pulse closely until help arrives.",
+      "hi": "तुरंत आपातकालीन सेवाएँ बुलाएँ। व्यक्ति को आरामदायक स्थिति में बैठाएँ या लिटाएँ। तंग कपड़े ढीले करें और सहायता आने तक श्वास व नाड़ी पर ध्यान रखें।"
+    },
+    {
+      "id": "seizure",
+      "keywords": ["seizure", "epileptic fit", "convulsion", "uncontrolled shaking", "epilepsy attack", "दौरा", "मिर्गी का दौरा", "आकंठन", "झटके आना", "फिट आना"],
+      "en": "Protect the person from injury by clearing the area. Do not restrain their movements. After the seizure, place them on their side and seek medical attention.",
+      "hi": "व्यक्ति को चोट से बचाने के लिए आसपास का क्षेत्र खाली करें। उनके आंदोलनों को न रोकें। दौरा खत्म होने के बाद उन्हें एक ओर लिटाएँ और चिकित्सकीय सहायता लें।"
+    },
+    {
+      "id": "hypoglycemia",
+      "keywords": ["hypoglycemia", "low blood sugar", "sugar drop", "glucose low", "insulin reaction", "हाइपोग्लाइसीमिया", "लो ब्लड शुगर", "चीनी की कमी", "ग्लूकोज कम होना", "शुगर घटना"],
+      "en": "If the person is conscious, give fast-acting sugar like glucose, juice, or candy. Monitor closely for improvement. Seek medical care if symptoms do not improve.",
+      "hi": "यदि व्यक्ति होश में है तो उन्हें ग्लूकोज, जूस या मिठाई जैसी तेज असर वाली शर्करा दें। सुधार पर नजर रखें। लक्षण ठीक न होने पर चिकित्सकीय सहायता लें।"
+    },
+    {
+      "id": "allergic_reaction_severe",
+      "keywords": ["severe allergy", "anaphylaxis", "allergic reaction", "shock allergy", "life-threatening allergy", "गंभीर एलर्जी", "एनाफिलैक्सिस", "एलर्जिक रिएक्शन", "शॉक एलर्जी", "जानलेवा एलर्जी"],
+      "en": "Call emergency services immediately. Lay the person flat and elevate their legs. Administer epinephrine if available. Monitor breathing and pulse until help arrives.",
+      "hi": "तुरंत आपातकालीन सेवाएँ बुलाएँ। व्यक्ति को सपाट लेटाएँ और पैरों को ऊँचा करें। यदि एपिनेफ्रिन उपलब्ध हो तो दें। सहायता आने तक श्वास और नाड़ी पर नजर रखें।"
+    },
+    {
+      "id": "heat_syncope",
+      "keywords": ["heat syncope", "faint from heat", "heat collapse", "hot weather fainting", "sun faint", "गर्मी से बेहोशी", "हीट सिंकोप", "धूप में चक्कर", "गर्मी से चक्कर आना", "लू से बेहोशी"],
+      "en": "Move the person to a cool, shaded area. Have them lie down and elevate their legs. Offer water and monitor their condition.",
+      "hi": "व्यक्ति को ठंडी, छायादार जगह पर ले जाएँ। उन्हें लेटा कर पैरों को ऊँचा करें। पानी दें और उनकी स्थिति पर नजर रखें।"
+    },
+    {
+      "id": "cold_related_rash",
+      "keywords": ["cold rash", "chill rash", "winter rash", "skin rash cold", "frost rash", "ठंड से दाने", "ठंड से चकत्ते", "सर्दी से दाने", "त्वचा पर दाने", "ठंड का रैश"],
+      "en": "Move the person to a warmer environment. Keep the skin dry and clean. Apply a gentle moisturizer if needed.",
+      "hi": "व्यक्ति को गर्म जगह पर ले जाएँ। त्वचा को साफ और सूखा रखें। आवश्यकता होने पर हल्का मॉइस्चराइज़र लगाएँ।"
+    },
+    {
+      "id": "finger_fracture",
+      "keywords": ["finger fracture", "broken finger", "finger injury", "cracked finger bone", "finger trauma", "उंगली की हड्डी टूटना", "उंगली फ्रैक्चर", "उंगली चोट", "उंगली हड्डी दरार", "उंगली में चोट"],
+      "en": "Immobilize the finger using a splint or tape. Apply ice to reduce swelling. Keep it elevated and seek medical attention.",
+      "hi": "उंगली को स्प्लिंट या टेप से स्थिर करें। सूजन कम करने के लिए बर्फ लगाएँ। इसे ऊँचा रखें और चिकित्सक से संपर्क करें।"
+    },
+    {
+      "id": "toe_fracture",
+      "keywords": ["toe fracture", "broken toe", "toe injury", "toe bone crack", "toe trauma", "पैर की उंगली टूटना", "पैर की अंगुली फ्रैक्चर", "पैर की उंगली चोट", "उंगली की हड्डी दरार", "पैर की उंगली में चोट"],
+      "en": "Immobilize the toe with tape or a splint. Apply ice and keep it elevated. Avoid putting weight on it and seek medical care.",
+      "hi": "अंगुली को टेप या स्प्लिंट से स्थिर करें। बर्फ लगाएँ और ऊँचा रखें। उस पर भार न डालें और चिकित्सक से संपर्क करें।"
+    },
+    {
+      "id": "shin_laceration",
+      "keywords": ["shin cut", "leg wound", "shin injury", "deep shin cut", "shin bleeding", "पिंडली कटना", "पिंडली में घाव", "पैर में गहरा घाव", "पिंडली की चोट", "पिंडली पर कट"],
+      "en": "Clean the wound with water and mild soap. Apply antiseptic and cover with a sterile dressing. Control bleeding and monitor for infection.",
+      "hi": "घाव को पानी और हल्के साबुन से साफ करें। एंटीसेप्टिक लगाएँ और स्टेराइल ड्रेसिंग करें। रक्त बहना नियंत्रित करें और संक्रमण पर नजर रखें।"
+    },
+    {
+      "id": "knee_dislocation",
+      "keywords": ["knee dislocation", "dislocated knee", "knee out of place", "knee joint injury", "knee trauma", "घुटना खिसकना", "घुटना डिसलोकेशन", "घुटने की चोट", "जोड़ खिसकना", "घुटने की हड्डी खिसकना"],
+      "en": "Immobilize the leg in its current position. Do not try to reposition the joint. Apply ice and seek emergency medical attention immediately.",
+      "hi": "पैर को उसकी वर्तमान स्थिति में स्थिर करें। जोड़ को वापस स्थिति में लाने का प्रयास न करें। बर्फ लगाएँ और तुरंत आपातकालीन चिकित्सकीय सहायता लें।"
+    },
+    {
+      "id": "ankle_fracture",
+      "keywords": ["ankle fracture", "broken ankle", "ankle injury", "ankle bone crack", "ankle trauma", "टखना फ्रैक्चर", "टखना टूटना", "टखने की चोट", "टखने की हड्डी दरार", "टखना चोटिल"],
+      "en": "Immobilize the ankle with a splint. Apply ice and keep it elevated. Do not walk on it and seek medical attention immediately.",
+      "hi": "टखने को स्प्लिंट से स्थिर करें। बर्फ लगाएँ और ऊँचा रखें। उस पर न चलें और तुरंत चिकित्सक से संपर्क करें।"
+    },
+    {
+      "id": "shoulder_dislocation",
+      "keywords": ["shoulder dislocation", "dislocated shoulder", "shoulder out", "joint injury shoulder", "shoulder trauma", "कंधा खिसकना", "कंधा डिसलोकेशन", "कंधे की चोट", "जोड़ खिसकना", "कंधा हड्डी खिसकना"],
+      "en": "Immobilize the arm in its current position. Apply ice to reduce swelling. Do not attempt to reposition. Seek medical care immediately.",
+      "hi": "भुजा को उसकी वर्तमान स्थिति में स्थिर करें। सूजन कम करने के लिए बर्फ लगाएँ। इसे वापस स्थिति में लाने का प्रयास न करें। तुरंत चिकित्सकीय सहायता लें।"
+    },
+    {
+      "id": "wrist_fracture",
+      "keywords": ["wrist fracture", "broken wrist", "wrist injury", "wrist bone crack", "wrist trauma", "कलाई फ्रैक्चर", "कलाई टूटना", "कलाई की चोट", "कलाई की हड्डी दरार", "कलाई चोटिल"],
+      "en": "Immobilize the wrist with a splint. Apply ice and keep it elevated. Avoid movement and seek medical attention.",
+      "hi": "कलाई को स्प्लिंट से स्थिर करें। बर्फ लगाएँ और ऊँचा रखें। गति से बचें और चिकित्सक से संपर्क करें।"
+    },
+    {
+      "id": "burn_chemical_acid",
+      "keywords": ["acid burn", "chemical burn acid", "acid injury", "acid splash", "acid wound", "एसिड से जलना", "एसिड जलन", "तेजाब से चोट", "एसिड का घाव", "तेजाब से जलन"],
+      "en": "Rinse the affected area continuously under running water for at least 20 minutes. Remove contaminated clothing carefully. Seek medical attention immediately.",
+      "hi": "प्रभावित हिस्से को कम से कम 20 मिनट तक बहते पानी से धोते रहें। दूषित कपड़े सावधानी से हटाएँ। तुरंत चिकित्सकीय सहायता लें।"
+    },
+    {
+      "id": "burn_chemical_alkali",
+      "keywords": ["alkali burn", "chemical burn alkali", "caustic burn", "alkali injury", "alkali wound", "क्षार से जलना", "केमिकल बर्न", "क्षारीय जलन", "क्षार से चोट", "क्षार का घाव"],
+      "en": "Flush the affected area continuously with running water. Remove contaminated clothing carefully. Do not neutralize with other chemicals. Seek medical attention immediately.",
+      "hi": "प्रभावित हिस्से को लगातार बहते पानी से धोते रहें। दूषित कपड़े सावधानी से हटाएँ। अन्य रसायनों से तटस्थ करने की कोशिश न करें। तुरंत चिकित्सकीय सहायता लें।"
+    },
+    {
+      "id": "eye_chemical_exposure",
+      "keywords": ["eye chemical", "chemical in eye", "eye burn", "chemical splash", "eye wash", "आँख में रसायन", "रसायन जलन", "आँख में छींटा", "रासायनिक चोट", "आँख धोना"],
+      "en": "If chemicals enter the eye, rinse immediately with running water for at least 15 minutes. Keep eyelids open while flushing and seek medical attention without delay.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "यदि रसायन आँख में चला जाए, तो तुरंत बहते पानी से कम से कम 15 मिनट तक धोएँ। धोते समय पलकें खुली रखें और बिना देरी चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "eye_scratch",
+      "keywords": ["eye scratch", "corneal scratch", "eye injury", "eye trauma", "eye redness", "आँख में खरोंच", "कॉर्निया खरोंच", "आँख की चोट", "आँख आघात", "लाल आँख"],
+      "en": "For an eye scratch, do not rub the eye. Rinse gently with clean water and seek medical care if pain or redness continues.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "आँख में खरोंच लगने पर आँख न रगड़ें। साफ पानी से धीरे धोएँ और यदि दर्द या लालिमा बनी रहे तो चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "mouth_burn",
+      "keywords": ["mouth burn", "oral burn", "burn in mouth", "tongue burn", "hot food burn", "मुंह जलना", "मुख जलन", "जीभ जलना", "गर्म खाना चोट", "मुँह में छाला"],
+      "en": "In case of a mouth burn, rinse with cold water and avoid hot or spicy foods. Seek medical care if blisters appear.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "मुंह में जलन होने पर ठंडे पानी से कुल्ला करें और गर्म या मसालेदार भोजन से बचें। यदि छाले हो जाएँ तो चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "lip_cut",
+      "keywords": ["lip cut", "lip injury", "lip bleeding", "cut on lip", "mouth wound", "होंठ कटना", "होंठ चोट", "होंठ से खून", "मुंह का घाव", "होंठ फटना"],
+      "en": "For a cut on the lip, apply gentle pressure with a clean cloth to stop bleeding. Rinse with water and seek medical care if the cut is deep.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "होंठ कटने पर खून रोकने के लिए साफ कपड़े से हल्का दबाव डालें। पानी से कुल्ला करें और यदि कट गहरा हो तो चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "tongue_cut",
+      "keywords": ["tongue cut", "cut on tongue", "tongue injury", "tongue bleeding", "mouth cut", "जीभ कटना", "जीभ से खून", "जीभ चोट", "मुंह कटना", "मुख चोट"],
+      "en": "If the tongue is cut, rinse the mouth with cold water and apply pressure with a clean cloth. Avoid eating until it heals and seek medical help if severe.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "जीभ कटने पर मुँह को ठंडे पानी से कुल्ला करें और साफ कपड़े से दबाएँ। ठीक होने तक खाना न खाएँ और गंभीर स्थिति में चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "nose_fracture_open",
+      "keywords": ["open nose fracture", "nose broken open", "nasal fracture", "nose injury", "nose bone exposed", "नाक हड्डी खुली", "नाक टूटना", "नाक चोट", "नाक हड्डी चोट", "नाक हड्डी टूटना"],
+      "en": "Keep the person upright and apply a cold compress. Do not touch the exposed bone and seek emergency medical care immediately.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "व्यक्ति को सीधा रखें और ठंडी सेक लगाएँ। खुले हड्डी को न छुएँ और तुरंत आपातकालीन चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "jaw_dislocation",
+      "keywords": ["jaw dislocation", "dislocated jaw", "mouth joint injury", "jaw pain", "jaw out of place", "जबड़ा विस्थापन", "जबड़ा बाहर", "मुँह जोड़ चोट", "जबड़े में दर्द", "जबड़ा हट जाना"],
+      "en": "Keep the mouth closed without applying force. Support the jaw with your hands and seek medical attention immediately.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "मुँह को बलपूर्वक बंद न करें। हाथों से जबड़े को सहारा दें और तुरंत चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "chest_contusion",
+      "keywords": ["chest contusion", "chest bruise", "rib bruise", "chest injury", "thoracic trauma", "छाती चोट", "छाती पर चोट", "रिब्स पर चोट", "साँस में दर्द", "छाती में चोट"],
+      "en": "Apply an ice pack to reduce swelling. Monitor for breathing difficulties and seek medical care if severe pain or shortness of breath persists.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "सूजन कम करने के लिए आइस पैक लगाएँ। श्वास पर नजर रखें और तेज दर्द या सांस लेने में कठिनाई होने पर चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "rib_fracture",
+      "keywords": ["rib fracture", "broken rib", "rib injury", "chest fracture", "rib crack", "रिब फ्रैक्चर", "हड्डी टूटना", "छाती हड्डी टूटना", "पंक्ति हड्डी चोट", "छाती हड्डी चोट"],
+      "en": "Have the person sit upright or lie on the injured side. Apply ice for pain relief. Seek medical care immediately and avoid deep breaths or forceful coughing.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "व्यक्ति को सीधे बैठाएँ या घायल पक्ष पर लेटाएँ। दर्द कम करने के लिए बर्फ लगाएँ। तुरंत चिकित्सक से संपर्क करें और जोर से सांस या खाँसी से बचें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "nose_foreign_object",
+      "keywords": ["nose foreign object", "object in nose", "nasal blockage", "nose stuck item", "nose obstruction", "नाक में वस्तु", "नाक अवरोध", "नाक में फँसी वस्तु", "नाक में अड़चन", "नाक में अटकना"],
+      "en": "Have the person blow their nose gently. Do not probe with objects and seek medical help if the object does not come out.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "व्यक्ति को धीरे-धीरे नाक साफ करने दें। वस्तु डालने का प्रयास न करें और यदि वस्तु न निकले तो चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "ear_foreign_object",
+      "keywords": ["ear foreign object", "object in ear", "ear blockage", "ear stuck item", "ear obstruction", "कान में वस्तु", "कान में अटकना", "कान अवरोध", "कान में फँसी वस्तु", "कान में रोकावट"],
+      "en": "Do not attempt to remove with tools. Tilt the head to the side and let gravity help. Seek medical attention if the object remains.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "उपकरण से निकालने का प्रयास न करें। सिर को झुकाएँ और गुरुत्वाकर्षण से मदद लें। वस्तु न निकले तो चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "minor_allergic_rash",
+      "keywords": ["minor allergic rash", "skin rash", "allergy rash", "mild irritation", "allergic reaction", "हल्की एलर्जी", "त्वचा पर चकत्ता", "एलर्जी दाने", "हल्की जलन", "त्वचा प्रतिक्रिया"],
+      "en": "Wash the affected area with mild soap and water. Apply a cold compress, avoid scratching, and monitor for worsening symptoms.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "प्रभावित क्षेत्र को हल्के साबुन और पानी से धोएँ। ठंडी सेक लगाएँ, खुजली न करें और लक्षण बिगड़ने पर नजर रखें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "insect_bite_itching",
+      "keywords": ["insect bite itching", "bug bite", "mosquito bite", "sting itch", "bite irritation", "कीड़े का काटना", "मच्छर काटना", "डंक खुजली", "काटने से जलन", "काटने वाली चोट"],
+      "en": "Clean the area with soap and water. Apply antihistamine cream or cold compress. Avoid scratching to prevent infection.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "क्षेत्र को साबुन और पानी से साफ करें। एंटीहिस्टामिन क्रीम या ठंडी सेक लगाएँ। संक्रमण से बचने के लिए खुजली न करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "inhalation_of_smoke",
+      "keywords": ["smoke inhalation", "fire smoke", "inhaled fumes", "smoke breathing", "smoke exposure", "धुआँ साँस लेना", "आग का धुआँ", "साँस में धुआँ", "धुआँ जोखिम", "धुआँ संपर्क"],
+      "en": "Move the person to fresh air immediately. Loosen tight clothing, monitor breathing, and seek medical help if coughing persists.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "व्यक्ति को तुरंत ताजी हवा में ले जाएँ। तंग कपड़े ढीले करें, श्वास पर नजर रखें और खाँसी बनी रहे तो चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "bee_sting",
+      "keywords": ["bee sting", "honey bee bite", "insect sting", "bee injury", "swollen sting", "मधुमक्खी का डंक", "मधुमक्खी काटना", "कीड़े का डंक", "डंक से सूजन", "मधुमक्खी चोट"],
+      "en": "For a bee sting with localized swelling, wash the area with soap and water. Apply a cold compress to reduce swelling and take antihistamine if needed.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "मधुमक्खी के डंक से हुई सूजन में क्षेत्र को साबुन और पानी से धोएँ। सूजन कम करने के लिए ठंडी सेक करें और आवश्यकता हो तो एंटीहिस्टामिन लें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+        {
+      "id": "splashed_hot_liquid",
+      "keywords": ["hot liquid burn", "scald burn", "boiling water spill", "hot water splash", "burned by liquid", "गर्म पानी से जलना", "गरम तरल जलन", "उबलता पानी", "गर्म तरल छिड़काव", "तरल से जलना"],
+      "en": "Remove clothing from the affected area. Rinse immediately with cold water for 10–20 minutes. Cover with a clean cloth. Seek medical care if blistering occurs.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "प्रभावित क्षेत्र से कपड़े हटाएँ। तुरंत 10–20 मिनट तक ठंडे पानी से धोएँ। साफ कपड़े से ढकें। छाले होने पर चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "food_allergy_mild",
+      "keywords": ["mild food allergy", "food reaction mild", "light allergy", "food intolerance mild", "minor food allergy", "हल्की खाद्य एलर्जी", "खाद्य प्रतिक्रिया हल्की", "हल्का एलर्जी", "माइल्ड फूड इंटॉलरेंस", "छोटी एलर्जी"],
+      "en": "Stop eating the suspected food. Rinse the mouth and take an antihistamine if available. Monitor for any progression.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "संदिग्ध भोजन खाना बंद करें। मुंह धोएँ। उपलब्ध हो तो एंटीहिस्टामिन लें। लक्षण पर नजर रखें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "food_allergy_severe",
+      "keywords": ["severe food allergy", "food anaphylaxis", "serious food reaction", "allergic emergency", "life-threatening allergy", "गंभीर खाद्य एलर्जी", "खाद्य एनाफिलैक्सिस", "गंभीर प्रतिक्रिया", "आपातकालीन एलर्जी", "जीवन-धमकी एलर्जी"],
+      "en": "Call emergency services immediately. Administer epinephrine if available. Lay the person flat and monitor breathing.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "तुरंत आपातकालीन सेवाएँ बुलाएँ। एपिनेफ्रिन दें यदि उपलब्ध हो। व्यक्ति को सपाट लेटाएँ और श्वास पर नजर रखें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "splinter_under_nail",
+      "keywords": ["nail splinter", "splinter under finger", "wood splinter nail", "embedded splinter", "under nail injury", "नाखून के नीचे तिनका", "उँगली के नीचे तिनका", "लकड़ी का तिनका", "जमा तिनका", "नाखून चोट"],
+      "en": "Clean hands and affected area. Use a sterilized needle carefully to lift the edge if visible. Wash again and cover with a bandage.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "हाथ और प्रभावित क्षेत्र को साफ करें। यदि दिखाई दे तो स्टरलाइज्ड सुई से धीरे उठाएँ। फिर से धोएँ और पट्टी लगाएँ।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "minor_head_bump",
+      "keywords": ["head bump", "minor head injury", "bump on head", "light concussion", "head knock", "सिर पर चोट", "हल्की सिर चोट", "सिर पर उभार", "हल्का कंशन", "सिर ठोकना"],
+      "en": "Apply a cold compress for 10–15 minutes. Monitor for dizziness, nausea, or vomiting. Seek medical care if symptoms worsen.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "10–15 मिनट तक ठंडी सेक लगाएँ। चक्कर, मतली या उल्टी पर नजर रखें। लक्षण बिगड़ने पर चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "nose_irritation_from_chemical",
+      "keywords": ["chemical nose irritation", "nasal chemical burn", "nose sting chemical", "nose reaction chemical", "nasal discomfort", "रासायनिक नाक जलन", "नाक रासायनिक चोट", "नाक में जलन", "रासायनिक प्रतिक्रिया", "नाक असुविधा"],
+      "en": "Move to fresh air. Rinse inside nostrils gently with saline. Seek medical care if irritation persists.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "ताजी हवा में जाएँ। नाक के अंदर हल्के नमक के पानी से धोएँ। जलन बनी रहे तो चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "eye_irritation_from_dust",
+      "keywords": ["dust in eye", "eye irritation dust", "foreign particles eye", "eye discomfort dust", "dust exposure eye", "धूल से आंख की जलन", "आँख में धूल", "विदेशी कण आँख", "आँख असुविधा", "धूल संपर्क आंख"],
+      "en": "Rinse the eye gently with clean water. Avoid rubbing, blink frequently, and seek medical attention if redness persists.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "आँख को साफ पानी से धीरे धोएँ। रगड़ें नहीं। बार-बार पलक झपकाएँ और लालिमा बनी रहे तो चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "mouth_injury_from_fall",
+      "keywords": ["mouth injury fall", "oral trauma", "mouth cut", "lips injury", "oral impact", "मुंह चोट", "मुँह पर चोट", "होठ चोट", "ओरल ट्रॉमा", "मुंह टक्कर"],
+      "en": "Rinse mouth with cold water. Apply a cold compress externally. Monitor for bleeding and seek a dentist if severe.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "मुंह को ठंडे पानी से धोएँ। बाहरी ठंडी पट्टी लगाएँ। रक्तस्राव पर नजर रखें और गंभीर होने पर दंत चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "tooth_knocked_out",
+      "keywords": ["tooth knocked out", "avulsed tooth", "lost tooth", "fallen tooth", "displaced tooth", "दांत गिरना", "खोया हुआ दांत", "दांत बाहर", "उखड़ा दांत", "दांत हटना"],
+      "en": "Keep the tooth moist in milk or saliva. Avoid touching the root. See a dentist immediately for possible reimplantation.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "दांत को दूध या लार में नम रखें। जड़ को न छुएँ। तुरंत दंत चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "nose_bleed_from_injury",
+      "keywords": ["nose bleed", "nose injury bleeding", "epistaxis", "bloody nose", "nose trauma", "नाक से खून", "नाक चोट से खून", "नकसीर", "रक्तस्राव नाक", "नाक चोट"],
+      "en": "Sit upright and lean forward. Pinch the soft part of the nose for 10–15 minutes. Apply a cold compress to the nose bridge.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "सीधे बैठें और आगे झुकें। नाक के मुलायम हिस्से को 10–15 मिनट दबाएँ। नाक के पुल पर ठंडी सेक लगाएँ।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "dizziness_from_standing_quickly",
+      "keywords": ["dizziness standing", "lightheadedness", "fainting sensation", "vertigo sudden stand", "orthostatic dizziness", "खड़े होते चक्कर", "हल्का चक्कर", "चक्कर आना", "सिर घूमना", "अचानक खड़े होने पर चक्कर"],
+      "en": "Sit or lie down immediately. Drink water. Rise slowly and monitor for continued faintness.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "तुरंत बैठें या लेट जाएँ। पानी पिएँ। धीरे-धीरे उठें और लगातार चक्कर होने पर नजर रखें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "minor_finger_cut",
+      "keywords": ["finger cut", "minor finger injury", "small cut finger", "hand cut", "finger scratch", "उँगली कट", "हल्की उँगली चोट", "छोटा कट", "हाथ पर कट", "उँगली खरोंच"],
+      "en": "Wash the cut with soap and water. Apply antiseptic and cover with a bandage. Change the dressing daily.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "कट को साबुन और पानी से धोएँ। एंटीसेप्टिक लगाएँ और पट्टी से ढकें। ड्रेसिंग रोज़ बदलें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "minor_foot_cut",
+      "keywords": ["foot cut", "minor foot injury", "small foot wound", "foot scratch", "foot laceration", "पैर कट", "हल्की पैर चोट", "छोटा पैर घाव", "पैर खरोंच", "पैर लार्जर कट"],
+      "en": "Clean the wound thoroughly. Apply antiseptic and cover with a sterile dressing. Avoid walking barefoot until healed.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "घाव को अच्छी तरह साफ करें। एंटीसेप्टिक लगाएँ और स्टेराइल ड्रेसिंग से ढकें। ठीक होने तक नंगे पैर न चलें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "animal_scratch",
+      "keywords": ["animal scratch", "pet scratch", "cat scratch", "dog scratch", "minor animal wound", "जानवर की खरोंच", "पालतू खरोंच", "बिल्ली खरोंच", "कुत्ता खरोंच", "हल्की जानवर चोट"],
+      "en": "Wash the wound with soap and water. Apply antiseptic. Cover with a clean dressing. Seek medical care if the wound is deep or swollen.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "घाव को साबुन और पानी से धोएँ। एंटीसेप्टिक लगाएँ। साफ ड्रेसिंग से ढकें। गहरा या सूजन होने पर चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "insect_sting_swelling",
+      "keywords": ["insect sting", "bee sting", "wasp sting", "mosquito bite", "bug bite", "कीट का डंक", "मधुमक्खी डंक", "बिच्छू डंक", "मच्छर काटना", "कीट काटना"],
+      "en": "Wash the area with soap and water. Apply a cold compress. Take an antihistamine if itchy. Monitor for any allergic symptoms.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "क्षेत्र को धोएँ। ठंडी सेक लगाएँ। खुजली होने पर एंटीहिस्टामिन लें। एलर्जिक लक्षण पर नजर रखें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "nose_irritant_inhalation",
+      "keywords": ["nose irritant", "chemical inhalation", "dust inhalation", "fumes inhaled", "nasal irritation", "नाक जलन", "रासायनिक धुंआ", "धूल सांस लेना", "धुएँ का श्वसन", "नाक असुविधा"],
+      "en": "Move to fresh air. Blow the nose gently. Rinse nostrils with saline if available. Seek medical care if irritation continues.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "ताजी हवा में जाएँ। धीरे-धीरे नाक साफ करें। यदि उपलब्ध हो तो नमक के पानी से नाक धोएँ। जलन बनी रहे तो चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "minor_eye_cut",
+      "keywords": ["eye cut", "corneal scratch", "eye injury", "small eye wound", "eyelid cut", "आँख कट", "कोर्नियल खरोंच", "आँख चोट", "छोटा घाव आँख", "पलक कट"],
+      "en": "Do not rub the eye. Rinse gently with clean water. Cover lightly and seek medical attention promptly.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "आँख को न रगड़ें। साफ पानी से धीरे धोएँ। हल्का ढकें और तुरंत चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "nose_swelling_from_hit",
+      "keywords": ["nose swelling", "nose bruise", "nasal impact", "nose injury swelling", "hit nose", "नाक सूजन", "नाक चोट", "नाक पर चोट", "नाक उभार", "नाक पर घाव"],
+      "en": "Apply a cold compress to reduce swelling. Avoid touching or pressing the nose. Monitor for bleeding or deformity.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "सूजन कम करने के लिए ठंडी सेक लगाएँ। नाक को छूने या दबाने से बचें। रक्तस्राव या विकृति पर नजर रखें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "minor_tongue_injury",
+      "keywords": ["tongue injury", "tongue cut", "mouth tongue wound", "tongue trauma", "minor tongue cut", "जिब्हा चोट", "जिब्हा कट", "मुंह जिब्हा घाव", "जिब्हा चोट हल्की", "जुबान घाव"],
+      "en": "Rinse the mouth with cold water. Avoid spicy or hot foods. Apply ice externally if needed.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "मुंह को ठंडे पानी से धोएँ। मसालेदार या गर्म भोजन से बचें। आवश्यकता होने पर बाहरी बर्फ लगाएँ।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "mild_abdominal_pain",
+      "keywords": ["abdominal pain mild", "stomach ache", "tummy discomfort", "light stomach pain", "mild belly pain", "हल्का पेट दर्द", "पेट में हल्की पीड़ा", "पेट की असुविधा", "हल्का पेट दर्द", "पेट में दर्द हल्का"],
+      "en": "Have the person rest. Drink water and avoid heavy meals. Seek medical care if pain worsens or persists.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "व्यक्ति को आराम करने दें। पानी पिएँ। भारी भोजन से बचें। दर्द बढ़े या बना रहे तो चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    },
+    {
+      "id": "mild_vomiting",
+      "keywords": ["vomiting mild", "nausea mild", "light vomiting", "upset stomach", "retching", "हल्की उल्टी", "हल्की मतली", "हल्का उल्टी", "पेट खराब", "उल्टी हल्की"],
+      "en": "Have the person rest. Give small sips of water or electrolyte solution. Avoid solid food initially. Seek medical care if vomiting persists.\n\nPlease note: this is general information and not a substitute for professional medical advice. Consult your doctor for personalized guidance.",
+      "hi": "व्यक्ति को आराम करने दें। पानी या इलेक्ट्रोलाइट समाधान के छोटे घूंट दें। प्रारंभ में ठोस भोजन से बचें। लगातार होने पर चिकित्सक से संपर्क करें।\n\nकृपया ध्यान दें: यह सामान्य जानकारी है और पेशेवर चिकित्सकीय सलाह का विकल्प नहीं है। व्यक्तिगत मार्गदर्शन के लिए डॉक्टर से परामर्श करें।"
+    }
+  ]
+}
